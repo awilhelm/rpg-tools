@@ -1,0 +1,18 @@
+<!DOCTYPE data [
+	<!ATTLIST type
+		athletics CDATA "0"
+		affection CDATA "0"
+		skill CDATA "0"
+		cunning CDATA "0"
+		luck CDATA "0"
+		will CDATA "0">
+]>
+
+<data>
+<type name="Lolita" description="Childish, young, innocent, cute, sweet." athletics="-1" luck="1"/>
+<type name="Sexy" description="Charming, coquettish, womanly body, glamorous." cunning="1" will="-1"/>
+<type name="Pure" description="Pure, maidenly, clean, fragile." affection="1" cunning="-1"/>
+<type name="Cool" description="Composed, expressionless, unflappable, doll-like." affection="-1" skill="1"/>
+<type name="Boyish" description="Wild, energetic, vigorous, at first glance looks like a boy." athletics="1" affection="-1"/>
+<type name="Heroine" description="Earnest, single-minded, tries her very best." luck="-1" will="1"/>
+</data>

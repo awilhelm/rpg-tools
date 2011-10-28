@@ -1,0 +1,38 @@
+<data>
+<weapon name="Mop/Broom" description="You fight with a broom or mop. This is a maid’s basic fighting style."/>
+<weapon name="Stun Gun" description="You keep a stun gun ready to attack enemies."/>
+<weapon name="Kitchen Knife" description="You wield some kind of ordinary kitchen knife."/>
+<weapon name="Frying Pan" description="You hit things with a frying pan."/>
+<weapon name="Vase/Bottle/Pot" description="When trouble happens, you grab something suitable from around the mansion and wave it around or throw it."/>
+<weapon name="Hand-to-Hand" description="You fight with your bare hands, whether striking attacks or submission moves."/>
+<weapon name="Revolver" description="You fight with a revolver. Feel free to decide what kind."/>
+<weapon name="Machinegun" description="You wield a machinegun. Feel free to decide what kind."/>
+<weapon name="Rifle" description="You wield a rifle. Feel free to decide what kind."/>
+<weapon name="Bomb/Grenade" description="You use bombs, grenades, or maybe plastic explosives."/>
+<weapon name="Bazooka" description="When a fight breaks out you pull out a big-ass bazooka."/>
+<weapon name="Ray Gun" description="It might look like a prop of a 50s sci-fi B movie, but the ray gun you’re packing really does hurt people."/>
+<weapon name="Metal Pipe/Nail Bat" description="You use some crude weapon like a pipe or a bat with nails in it."/>
+<weapon name="Hammer" description="You wield a hammer, whether a small throwing hammer, a big warhammer, or one of the squeaky toy variety."/>
+<weapon name="Scythe" description="You wield a big scythe worthy of the Grim Reaper."/>
+<weapon name="Kung Fu Weapon" description="Nunchucks, Three-Section Staff, Tonfa, Sai, Tai Chi Sword, etc."/>
+<weapon name="Chainsaw" description="Never mind how loud it is you fight with a chainsaw!"/>
+<weapon name="Wooden Sword/Staff" description="You wield bokken - Japanese-style wooden sword - or a staff."/>
+<weapon name="Axe/Hatchet" description="A tomahawk, battle axe, halberd, etc."/>
+<weapon name="Morningstar" description="Basically a mace with spikes. You can have a flail instead if you like."/>
+<weapon name="Western Sword" description="A long sword, rapier, flamberge, two-handed sword, etc., etc."/>
+<weapon name="Whip" description="A normal whip, a cat of nine tails, a metal whip, etc."/>
+<weapon name="Spear/Lance" description="A spear, lance, javelin, etc."/>
+<weapon name="Exotic Weapon" description="A boomerang, qatar, African throwing irons, etc."/>
+<weapon name="Knife/Scalpel" description="You attack with a knife or scalpel. You can throw it too, and it can be a large dagger if you like."/>
+<weapon name="Chain/Rope" description="You attack with a chain or rope."/>
+<weapon name="Claws" description="You attack with claws, a bagh nakh, cestus, or some other claw-like weapon."/>
+<weapon name="Katana" description="You wield a katana, or possibly a kusarigama or some other traditional Japanese weapon."/>
+<weapon name="Shuriken/Kunai" description="You have a seemingly unlimited supply of shuriken (throwing stars), or kunai (ninja throwing knives)."/>
+<weapon name="Halberd/Pole Arm" description="Naginata, halberd, bardiche, or some other kind of pole arm."/>
+<weapon name="Summoning" description="You are able to summon some kind of special being to attack. You can decide what you summon and how it attacks."/>
+<weapon name="Magic" description="You use magic to attack."/>
+<weapon name="Psychic Powers" description="Well, you have some kind of psychic/super power that you use to attack. You can decide the details."/>
+<weapon name="Book" description="You wield a book as a blunt instrument, and possibly tear out pages, to attack."/>
+<weapon name="Internal Weapons" description="You have some kind of weapons installed in your body."/>
+<weapon name="Religious Symbol" description="You can use a cross, prayer wheel, paper charm, or other seemingly harmless religious symbol to deliver attacks."/>
+</data>

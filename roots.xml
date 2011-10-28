@@ -1,0 +1,20 @@
+<data>
+<root name="Debts" description="Your family wound up with massive debts, and you found yourself coming to work at the mansion as repayment."/>
+<root name="Slave" description="You are a slave, and have no choice about your line of work."/>
+<root name="Mistress" description="Although you appear to be a maid, it would be more accurate to call you the master’s lover."/>
+<root name="Revenge" description="The master is your hated enemy, and you are infiltrating his mansion in order to extract revenge."/>
+<root name="Orphan" description="You are an orphan adopted by the master or his parents."/>
+<root name="Illegitimate Child" description="You are an illegitimate child. From a legal standpoint you’re no different from the master."/>
+<root name="Hereditary Maid" description="You were born into a family that has served the mansion for generations."/>
+<root name="Self Punishment" description="In order to punish yourself for your inexperience or sins, you have taken up the job of a maid."/>
+<root name="Unrequited Love" description="Following your one-sided love of the master, you have come here."/>
+<root name="Business" description="You are a maid because you want the wages. And that’s about it."/>
+<root name="Infiltrator" description="You are a member of an organization that opposes the master, and you have been sent to spy on or possibly even assassinate him."/>
+<root name="Loyalty" description="You feel great loyalty to the master."/>
+<root name="Childhood Friend" description="As the master’s childhood friend, you’ve used your influence to get here."/>
+<root name="Admirer of Maids" description="You have long admired maids, and through much hard work you’ve finally become one yourself."/>
+<root name="Returning a Favor" description="The master did a great service to  you, and you have become a maid in order to repay him."/>
+<root name="Distant Relative" description="Although you are only distantly related to the master, your parents have put you in his care."/>
+<root name="Bridal Training" description="You became a maid in order to prepare yourself to become an ideal bride some day."/>
+<root name="Who Knows?" description="You’re really not quite sure how you wound up becoming a maid."/>
+</data>

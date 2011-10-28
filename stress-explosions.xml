@@ -1,0 +1,20 @@
+<data>
+<stress-explosion name="Alcohol/Drugs" description="You drink alcohol (or drugs) until you can’t remember or care."/>
+<stress-explosion name="Stealing" description="You steal valuables from the mansion or from other maids."/>
+<stress-explosion name="Violence" description="You unleash violence on the other maids and the master."/>
+<stress-explosion name="Gambling" description="You use every penny you have for gambling."/>
+<stress-explosion name="Racing" description="You get into whatever car/vehicle is handy and go for a drive at at least twice the speed limit."/>
+<stress-explosion name="Teasing" description="You start persistently tormenting the other maids."/>
+<stress-explosion name="Mischief" description="You start playing troublesome tricks on the master and the other maids."/>
+<stress-explosion name="Running Away" description="You run away from the mansion."/>
+<stress-explosion name="Complaining" description="You start incessantly complaining to the master and other maids."/>
+<stress-explosion name="Seclusion" description="You go into your room and won’t come out, not even for food."/>
+<stress-explosion name="Crying" description="You start crying. There’s no need for an Affection check for this."/>
+<stress-explosion name="Rampage" description="You use anything you can lay your hands on to run around destroying things around the mansion."/>
+<stress-explosion name="Shopping" description="You go crazy spending your money on shopping."/>
+<stress-explosion name="Sleep" description="You spend all day sleeping."/>
+<stress-explosion name="Binge" description="You go crazy eating."/>
+<stress-explosion name="Prayer" description="You escape through religion, relentlessly praying to heaven for protection."/>
+<stress-explosion name="Spoiled Child" description="You act like a spoiled child, making demands of the master."/>
+<stress-explosion name="Player Choice" description="Let the player to your left decide for you."/>
+</data>

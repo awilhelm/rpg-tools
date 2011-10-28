@@ -1,0 +1,28 @@
+<!DOCTYPE data [
+	<!ATTLIST color
+		frequency CDATA "1">
+]>
+
+<data>
+<color name="Red" value="red"/>
+<color name="Purple" value="purple" frequency="2"/>
+<color name="Blue" value="blue"/>
+<color name="Orange" value="orange" frequency="2"/>
+<color name="Green" value="green" frequency="2"/>
+<color name="Yellow" value="yellow"/>
+<color name="Pink" value="pink" frequency="2"/>
+<color name="Sky Blue" value="skyblue" frequency="2"/>
+<color name="Cream" value="lightyellow" frequency="2"/>
+<color name="White" value="white"/>
+<color name="Brown" value="brown" frequency="2"/>
+<color name="Navy" value="navy" frequency="2"/>
+<color name="Beige" value="beige" frequency="2"/>
+<color name="Gray" value="gray" frequency="2"/>
+<color name="Black" value="black"/>
+<color name="Vermillion" value="orangered" frequency="2"/>
+<color name="Indigo" value="indigo" frequency="2"/>
+<color name="Gold" value="gold" frequency="2"/>
+<color name="Silver" value="silver" frequency="2"/>
+<color name="Metallic" value="steelblue" frequency="2"/>
+<color name="Transparent or Rainbow" value="transparent"/>
+</data>

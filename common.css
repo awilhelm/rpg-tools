@@ -1,0 +1,67 @@
+
+form {
+	background: window;
+	border: thin outset window;
+	color: windowtext;
+	display: inline-block;
+	float: left;
+	font-family: sans-serif;
+	font-size: small;
+	margin: 0 1em 1ex 0;
+	padding: 1ex 1em;
+	vertical-align: top;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+p {
+	display: block;
+	font-family: serif;
+	margin: 1ex 0;
+}
+
+div {
+	clear: both;
+}
+
+fieldset {
+	border-color: window;
+	margin: 0;
+	margin-bottom: 1ex;
+}
+
+*+tbody>*:first-child>* {
+	padding-top: 1ex;
+}
+
+tr>* {
+	text-align: left;
+	font-family: inherit;
+	font-size: inherit;
+}
+
+input[type="text"],
+select {
+	width: 15em;
+}
+
+.color select {
+	width: 12em;
+}
+
+#attributes input[type="text"] {
+	width: 2em;
+}
+
+.event input[type="text"] {
+	float: right;
+	margin-left: 1em;
+	width: 2em;
+}
+
+.hidden {
+	display: none;
+}
+

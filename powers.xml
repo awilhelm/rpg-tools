@@ -1,0 +1,45 @@
+<data>
+
+<power name="Super Evasion" description="In exchange for 1D6 Stress, you can completely avoid a single attack." attribute="athletics"/>
+<power name="Iron Wall" description="You can use your Athletics attribute to defend up to two other characters." attribute="athletics"/>
+<power name="Trespass" description="You can take 1D6 Stress to intrude on a battle, love scene, etc. You can also butt in after the action has ended, and this can even work when someone is using World For Two." attribute="athletics"/>
+<power name="Weapon From Nowhere" description="You can pull your weapon out seemingly from nowhere, and get in a surprise attack. If you make a surprise attack, you get to make an attack roll without the target getting to make an opposed roll." attribute="athletics"/>
+<power name="Giant Weapon" description="You can attack with a giant weapon. (+1 to Athletics for attacking)." attribute="athletics"/>
+<power name="Ultimate Retort" description="You can blow off an opponent completely by delivering a good retort (GM decides). You can make it impossible to defend against this by taking 2 Stress. (This must be role-played)." attribute="athletics"/>
+
+<power name="Maiden’s Tears" description="By taking 2D6 Stress, you can make a request that can’t be refused. (This must be role-played)." attribute="affection"/>
+<power name="World for Two" description="By taking 1D6 Stress, you can create a “world” for you and one other person, where for 5 minutes no one else can intrude." attribute="affection"/>
+<power name="Power of Friendship" description="You can take 1D6 Stress in order to remove 2D6 Stress from someone else." attribute="affection"/>
+<power name="Cooked With Love" description="When someone eats food you’ve prepared, they lose 1D6 Stress." attribute="affection"/>
+<power name="Windows of the Soul" description="You understand the master’s feelings better than anyone, and can offer careful help. (Add 2 to Favor gained)." attribute="affection"/>
+<power name="Passionate Gaze" description="With just a glance, you can ingratiate yourself with the master, taking 1D6 Stress to gain 1D3 Favor." attribute="affection"/>
+
+<power name="Lock Picking" description="You can enter any room whenever you feel like. This works even when someone is using World for Two." attribute="skill"/>
+<power name="Stalking" description="When you’re following someone, there’s no chance for them to detect you. Don’t even bother rolling dice." attribute="skill"/>
+<power name="Lie Detector" description="By taking 1 Stress you can make other players or the master admit if they’ve lied." attribute="skill"/>
+<power name="Ultimate Menu" description="Add +1 to your Skill for the purposes of cooking." attribute="skill"/>
+<power name="Instant Cleaning" description="Add +1 to your Skill for the purposes of doing cleaning." attribute="skill"/>
+<power name="4-D Dress" description="You can produce anything in the mansion from within your maid uniform." attribute="skill"/>
+
+<power name="Punishment" description="When other maids make mistakes, you can gain the right to punish them, without them having a chance to make an opposed roll." attribute="cunning"/>
+<power name="Instant Restraint" description="If you win a roll of Cunning Vs. Athletics, you can restrain someone from doing something indecent." attribute="cunning"/>
+<power name="Coercion" description="If you win a roll of Cunning Vs. Athletics, you can completely damage or tear off someone’s clothes, even “accidentally”." attribute="cunning"/>
+<power name="Trap" description="Even if you aren’t there at the time, you can have a trap prepared in advance during a battle." attribute="cunning"/>
+<power name="Fake Crying" description="You can use fake frying to use your Cunning for what would normally be an Affection roll. (This must be role-played)." attribute="cunning"/>
+<power name="Mockery" description="When someone is taking Stress points, you can mock them and cause them to gain an additional 2 Stress points. (This must be role played)." attribute="cunning"/>
+
+<power name="Karma" description="You can use your Luck to dodge an attack, and if you roll a 10 or higher you cause twice as much Stress to the opponent." attribute="luck"/>
+<power name="Saw It" description="You can declare that you’ve seen something happening in the mansion; you can decide the timing too." attribute="luck"/>
+<power name="Teleport" description="You can go just about anywhere in the mansion instantly." attribute="luck"/>
+<power name="Escape" description="You can completely flee from a battle without taking any Stress." attribute="luck"/>
+<power name="Foreboding" description="You can tell when something dangerous is coming." attribute="luck"/>
+<power name="Chance Meeting" description="By taking 2 points of Stress, you can have an NPC that’s just showing up for the first time be an acquaintance from some time before." attribute="luck"/>
+
+<power name="Immune to Pain" description="During a battle, even if you’re sent flying, you don’t take any Stress. Outside of battle, however, you can still take Stress points like usual." attribute="will"/>
+<power name="Crisis Adrenaline" description="You can spend 1D6 points of Favor to add an Athletics roll to your Stress. You cannot use this to deliberately avoid the natural removal of Stress points." attribute="will"/>
+<power name="Persistence" description="Whenever you take Stress, automatically reduce the amount by 1 point." attribute="will"/>
+<power name="Tenacity" description="Even after being defeated in battle, you can take 2 Stress to get to your feet." attribute="will"/>
+<power name="Hard Work" description="Your relentless hard work pays off in the form of a +3 bonus to the end result (not the attribute or die roll) of Skill rolls." attribute="will"/>
+<power name="Absolute Maid" description="You are the very epitome of a maid, and you take no penalties when not in full uniform." attribute="will"/>
+
+</data>

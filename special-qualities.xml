@@ -1,0 +1,195 @@
+<data>
+
+<special-quality name="Glasses" description="You wear glasses, and can’t use contact lenses. The frame design can be whatever you want."/>
+<special-quality name="Freckles" description="You have freckles."/>
+<special-quality name="Sickly" description="You’ve got an incurable disease. However, this doesn’t adversely affect your attributes. Choose your own symptoms."/>
+<special-quality name="Quiet" description="You have a cool, subtle demeanor. No, there are no rules regarding how often you speak."/>
+<special-quality name="Easygoing" description="You take things slow and calm, at your own pace. This doesn’t affect your attributes."/>
+<special-quality name="Neat Freak" description="You’re obsessed with cleanliness, and can’t let the tiniest bit of dirt go unnoticed."/>
+<special-quality name="Brown Skin" description="Your skin is a dark brown color. It could be natural, or a tan."/>
+<special-quality name="Albino" description="You have no pigment.You’re not necessarily completely colorless, this could simply be a very pale complexion."/>
+<special-quality name="Shy" description="You’re very shy. Don’t forget to remain silent when encountering NPCs you haven’t met before."/>
+<special-quality name="Actually A Guy" description="You’re actually a guy (cross-dresser?). Or possibly a hermaphrodite."/>
+<special-quality name="Overactive Imagination" description="You frequently get caught up in your own imaginary world, or else tend to daydream a lot."/>
+<special-quality name="Greedy" description="You will do absolutely anything for the sake of money."/>
+<special-quality name="Elf Ears" description="You have long, pointed ears."/>
+<special-quality name="Nekomimi" description="This varies a bit depending on the setting, but you’re a catgirl, with the ears and possibly tail of a cat."/>
+<special-quality name="Android/Gynoid" description="You’re not human, but rather a human-looking robot. Parts of your body are very obviously artificial."/>
+<special-quality name="Vampire" description="You are a vampire, with long fangs. Be sure to act… vampiric."/>
+<special-quality name="Princess" description="You’re actually the daughter of a family of even greater standing than the master. Depending on the setting, you could even be from another country’s royal family. Whether you are in disguise or not is up to you."/>
+<special-quality name="Angel/Devil" description="You are a being from another world charged with judging good and evil. The design and the details of your origins are up to you."/>
+
+<special-quality name="Uniform" description="You’ve managed to make a special arrangement with your uniform.">
+	<special-quality name="Tights" description="In place of a skirt, you wear tights of some color. Athletic, colorful, sexy, or weird (leopard pattern, RAWR!) it’s up to you. (For the purposes of the maid uniform rules, treat these as a skirt)"/>
+	<special-quality name="China Dress" description="You wear a Chinese-style cheongsam maid uniform. (For the purposes of the rules, treat this as a one-piece maid uniform)."/>
+	<special-quality name="Armor" description="Your maid uniform is actually a stylized suit of metal armor."/>
+	<special-quality name="Bondage" description="Your maid uniform is made of shiny rubber or leather, and generally a bit suspicious."/>
+	<special-quality name="Miniskirt" description="Your skirt is very short, to the point where one can almost see its contents."/>
+	<special-quality name="Kappougi" description="Instead of a Western maid uniform, you wear a Japanese-style one with a kimono and an apron over it."/>
+</special-quality>
+
+<special-quality name="Symbol" description="You have some kind of special mark on your uniform of headdress.">
+	<special-quality name="Skull" description="Your headdress, apron, necktie, forehead, or chest has a skull mark."/>
+	<special-quality name="Bat" description="Your headdress, apron, necktie, forehead, or chest has a bat symbol."/>
+	<special-quality name="Cross" description="Your headdress, apron, necktie, forehead, or chest has a cross on it."/>
+	<special-quality name="Yin-Yang" description="Your headdress, apron, necktie, forehead, or chest has a yin-yang symbol."/>
+	<special-quality name="Star" description="Your headdress, apron, necktie, forehead, or chest has a five- or six-pointed star mark."/>
+	<special-quality name="Card Suit" description="Your headdress, apron, necktie, forehead, or chest is marked with one of the four suits from playing cards (heart, diamond, club, spade)."/>
+</special-quality>
+
+<special-quality name="Delinquent" description="Something about you is very much like a delinquent.">
+	<special-quality name="Cigarettes" description="You’ve always got a cigarette in your mouth, or are chomping on a cigar."/>
+	<special-quality name="Tattoo" description="Somewhere on your body — or maybe even all over it — you have a tattoo."/>
+	<special-quality name="Sunglasses" description="You always wear sunglasses or mirrorshades. Even at night."/>
+	<special-quality name="Bad Expression" description="You have a perpetual unpleasant facial expression (as if you’re always angry, or always about to kick ass at any moment), and this makes first meetings difficult."/>
+	<special-quality name="Piercings" description="You have piercings, and not just in your ears, but perhaps your forehead, lips, eyelids, chin, etc."/>
+	<special-quality name="Rough Speak" description="You talk like a gangster, be it a Mafioso or a street ganger."/>
+</special-quality>
+
+<special-quality name="Accent" description="You have an unusual way of speaking.">
+	<special-quality name="Southern" description="Y’all talk like some kinda’ country bumpkin or somethin’, from down in the American South."/>
+	<special-quality name="British" description="You talk with a British accent of some kind. We’ll leave it up to you what kind specifically. If you are already from the UK in real life, then you are now DOUBLE BRITISH. Or choose Scottish or Welsh."/>
+	<special-quality name="Pidgin English" description="You come from a country/society where English is taught as a pidgin language. You might sound like a Japanese salaryman or pop idol (“Body Feels Exit!”). Pick a country and go with it."/>
+	<special-quality name="Meow" description="You like to sprinkle cat sounds in your speech every now and then."/>
+	<special-quality name="Knight" description="You sound like a knight from a movie, or possibly a Renaissance Faire reject. Remember to say “Thou art” and whatnot a lot."/>
+	<special-quality name="Foreigner" description="Pick a foreign nationality for your Maid other than Japanese. American (Brooklyn, Texas), French, Russian, Mexican, Nigerian, Indian, Canadian, etc."/>
+</special-quality>
+
+<special-quality name="Hairstyle" description="You have a special hairstyle.">
+	<special-quality name="Long Ringlets" description="Your hair is done up in large, long ringlets."/>
+	<special-quality name="Dumplings" description="Your hair is long, with “dumplings” on top."/>
+	<special-quality name="Mesh" description="You have a mesh haircut, a short, stylish hairdo that’s trendy in Japan."/>
+	<special-quality name="Curly Hair" description="Your hair is curly enough to defy gravity, and always takes the same shape."/>
+	<special-quality name="One Eye Hair " description="Your hair hangs down so that it conceals one of your eyes."/>
+	<special-quality name="Antenna Hair" description="Your hair has antennas/feelers and a mind of its own."/>
+</special-quality>
+
+<special-quality name="Accessory" description="You have a special accessory attached to your uniform.">
+	<special-quality name="Collar" description="Among your standard equipment is a collar, like a dog would wear. Spikes are optional."/>
+	<special-quality name="Large Ribbon" description="You wear a large ribbon in your hair."/>
+	<special-quality name="Spike" description="Your maid uniform has spikes attached to it."/>
+	<special-quality name="Chains" description="Your maid uniform has jangling chains attached to it."/>
+	<special-quality name="Black Leather Gloves" description="You normally wear black leather gloves. These can be fingerless or have rivets if you like,"/>
+	<special-quality name="Pet" description="You have a cat, snake, raven, or some other small animal as a pet that rests on your shoulder or in your hand."/>
+</special-quality>
+
+<special-quality name="Relationship" description="You have a relationship to another player character (Maid).">
+	<special-quality name="Sibling" description="You’re related by blood to one of the other characters."/>
+	<special-quality name="Childhood Friends" description="You grew up together in the same neighborhood as one of the other characters, and have been great friends since a very early age."/>
+	<special-quality name="Mentor" description="You look upon one of the characters as a personal mentor, perhaps even as a father/mother figure."/>
+	<special-quality name="Friendly Rival" description="You and another character are rivals in some area of life, and you always find yourself both consciously or subconsciously competing with, and comparing yourself with, that person. However, you are still friends (at least in appearance)."/>
+	<special-quality name="Ex-Lover/Love Rival" description="You used to date another character. Perhaps there are still feelings. Alternately, you both might be seeking the love of a third person."/>
+	<special-quality name="Vengeance" description="Another character wronged you in some way in the past. She may not even realize that she did (and it might not have seemed a big deal). But you will never forget."/>
+</special-quality>
+
+<!--
+<special-quality name="Perversion" description="You have a bizarre perversion of some kind.">
+	<special-quality name="Nymphomaniac" description="You’re abnormally interested in physical love. It’s up to the players and GM to decide how far you want to, or should, roleplay this."/>
+	<special-quality name="Sadist" description="You’re excited by causing pain and suffering to others."/>
+	<special-quality name="Masochist" description="You’re excited by being caused pain and suffering by others."/>
+	<special-quality name="Womanizer" description="You’re only romantically attracted to members of the same sex, which is fine (and perhaps expected)... But in your case, it’s turned up to “11”."/>
+	<special-quality name="Likes Them Young" description="You’re only interested in… younger partners. You can decide what age range this entails."/>
+	<special-quality name="Exhibitionist" description="You enjoy showing off your nude or semi/nude body. “Inappropriate dress” is not just a word, it’s a way of life."/>
+</special-quality>
+-->
+
+<special-quality name="Criminal Tendencies" description="You have an inclination towards criminal acts.">
+	<special-quality name="Killer" description="You have a bad habit: killing people."/>
+	<special-quality name="Pyromaniac" description="You love setting fires. You might even set fire to the mansion…"/>
+	<special-quality name="Kleptomaniac" description="You can’t help but steal things, regardless of whether or not you have any use for them."/>
+	<special-quality name="Addict" description="Whether it’s narcotics, stimulants, or just sleeping pills, you’re a substance-abuser. If you don’t get to have any, you’ll experience withdrawal symptoms."/>
+	<special-quality name="Otaku" description="You have some obsession that you tirelessly pursue, with little or no regard for common sense."/>
+	<special-quality name="Stalker" description="You’re stalking a particular person. Select the target from among the other PCs or the master."/>
+</special-quality>
+
+<special-quality name="Injury" description="Because of mistreatment or an accident, you have some kind of permanent physical injury.">
+	<special-quality name="Patchwork" description="Your body is covered with stitching scars."/>
+	<special-quality name="One Eye" description="You have only one eye. You’re free to decide whether you wear an eye patch, and if so its design."/>
+	<special-quality name="Burns" description="Your face, body, etc. are covered with painful-looking scars from burns."/>
+	<special-quality name="Whip Scars" description="Your back and such is covered with painful-looking welts from whippings you received (and may possibly be still receiving?)"/>
+	<special-quality name="Bandages" description="You wear many bandages and casts, concealing injuries that will not heal."/>
+	<special-quality name="Blind" description="You were rendered blind a long time ago. (No particular penalties for this: See the classic Zatoichi movies for reference)."/>
+</special-quality>
+
+<special-quality name="Tragic Love" description="You have had sad or tragic experiences with love.">
+	<special-quality name="Separations" description="For some reason love just never works out for you. At this point you’ve resigned yourself to fate."/>
+	<special-quality name="Lover Died" description="You had a lover who died since then you’ve been afraid to fall in love."/>
+	<special-quality name="Killed Your Lover" description="For whatever reason, you killed your last lover since then you’ve been afraid to fall in love. Or afraid for the object of your desire."/>
+	<special-quality name="Former Prostitute" description="You used to sell your body, for cheap. A complex remains."/>
+	<special-quality name="Betrayal" description="You were once betrayed by a lover since then you’ve been afraid to fall in love or let your guard down."/>
+	<special-quality name="Stalker Damage" description="You were once victimized by a stalker. You can’t trust members of the opposite sex… or maybe the same sex."/>
+</special-quality>
+
+<special-quality name="Dark Past" description="There is something dark in your personal history.">
+	<special-quality name="Former Delinquent" description="Although no one would know it looking at you now, you used to be a delinquent. Fortunately right now there’s no one (in the mansion at least) who knows about your past."/>
+	<special-quality name="Former Killer" description="You were once a hired killer. Even now, your skills have not been dulled."/>
+	<special-quality name="Amnesiac" description="You’ve lost your memories from when you were very young. (The GM should come up with something to reveal during the game)."/>
+	<special-quality name="Bad Reputation" description="You were involved with some bad stuff back in the day, and you have the dubious honor of being a legend for all the wrong reasons."/>
+	<special-quality name="Wanted" description="The police want to question you about a serious crime. The player can decide whether or not the character is actually guilty."/>
+	<special-quality name="Runaway" description="You’ve left your real home without permission."/>
+</special-quality>
+
+<special-quality name="Trauma" description="After some terrible incident, you were traumatized.">
+	<special-quality name="Suicide Attempts" description="In the past, you attempted suicide many times."/>
+	<special-quality name="Killed Your Parents" description="For whatever reason, you are responsible for the death of your parents."/>
+	<special-quality name="Saw Parent Die" description="You witnessed your parents’ (one or both) death with your own eyes."/>
+	<special-quality name="Sibling Hate" description="You and your sister(s) detest each other."/>
+	<special-quality name="Family Breakup" description="For some reason (economic trouble?) your family was forced to break up.You may have even caused it."/>
+	<special-quality name="Abusive Parents" description="You were raised by abusive parents."/>
+</special-quality>
+
+<special-quality name="Secret Job" description="You’re not just a  you’re secretly holding another job.">
+	<special-quality name="Assassin" description="While you put on the façade of being a maid, underneath you’re a coldhearted killer for hire."/>
+	<special-quality name="Hacker" description="Aside from being a maid, you’re a hacker, breaking into computer systems."/>
+	<special-quality name="Scientist" description="Along with being a maid, you’re some kind of mad scientist."/>
+	<special-quality name="Doctor/Pharmacist" description="In addition to being a maid, you have the skills of a doctor or a pharmacist."/>
+	<special-quality name="Doujin Artist" description="In addition to being a maid, you create doujinshi in your spare time. You can decide the genre."/>
+	<special-quality name="Pro Creator" description="Along with being a maid, you’re working as a professional creator, craftsperson or artist. You can decide the form and genre of your works."/>
+</special-quality>
+
+<special-quality name="Membership" description="In addition to being a maid, you’re also a member of a certain organization.">
+	<special-quality name="Evil Secret Society" description="You’re a member of an evil secret society that seeks to conquer or destroy the world."/>
+	<special-quality name="Secret Agency" description="You’re part of a secret agency under the government or the United Nations, some sort of intelligence agent or spy."/>
+	<special-quality name="Cult" description="You’re a member of some kind of eccentric cult, whether as a believer, a leader, or even the founder."/>
+	<special-quality name="Political Organization" description="You’re part of a group organized around some kind of political ideal, possibly something extreme to the point of insanity."/>
+	<special-quality name="Shadow Clan" description="You’re a member of one of the secret organizations that has existed throughout history. You could be a ninja, a magician, one of the knights templar, a kung fu assassin, etc."/>
+	<special-quality name="Government Official" description="You’re actually a government official who is working as a maid, whether because you’re a nurse, a detective going undercover, or a politician’s secretary."/>
+</special-quality>
+
+<special-quality name="Shapeshifter" description="You are an animal or weapon that has taken the form of a maid.">
+	<special-quality name="Fox" description="You’re actually a fox, and can display or hide your ears and tail at will."/>
+	<special-quality name="Spider" description="You’re actually a spider, and you can become an actual human-sized spider, or else just grow up to six extra arms at will."/>
+	<special-quality name="Raven" description="You’re actually a raven. You have black wings that can be displayed or hidden."/>
+	<special-quality name="Bunny" description="You’re actually a bunny, with bunny ears and a tail."/>
+	<special-quality name="Tiger/Lion" description="You’re actually a predatory cat, and you have ears, a tail, claws, and sharp teeth than you can display or hide at will."/>
+	<special-quality name="Snake" description="You’re actually a snake, and you can take on a naga form, turning the lower half of your body into a snake tail."/>
+</special-quality>
+
+<special-quality name="Monster" description="You’re not human, but rather some kind of monster.">
+	<special-quality name="Mermaid" description="You’re actually a mermaid. You love water, and your ears sometimes look like fins."/>
+	<special-quality name="Zombie/Mummy" description="You’re actually an animated corpse. Your complexion is probably bad, and you have conspicuous wounds."/>
+	<special-quality name="Werewolf" description="You’re actually a werewolf (or maybe a weretiger). Whether or not you want to, you turn into a wolf (or tiger) during a full moon."/>
+	<special-quality name="Succubus" description="You’re actually a succubus, a female demon that traps her prey by arousing their desires. You have some demonic physical traits (you decide the specifics) that can be displayed or hidden."/>
+	<special-quality name="Ghost" description="You’re actually a ghost. You might have been one of the master’s ancestors, or perhaps a maid who worked at the mansion in the past."/>
+	<special-quality name="Shinigami" description="You’re actually a shinigami, a death reaper. As such, you carry with you an aura of death. You might be there to deliver a specific person to the other side, or perhaps your reasons are more mundane."/>
+</special-quality>
+
+<special-quality name="Magic" description="You can use some kind of magical power.">
+	<special-quality name="Priestess" description="You can use magic grounded in some kind of religious ceremony. You must use various types of religious symbols to do so."/>
+	<special-quality name="Onmyouji" description="You practice Eastern-style magic based on Taoist principles. Your key item for this is jufu, special curse charms written in brush ink on strips of paper."/>
+	<special-quality name="Fortuneteller" description="Within certain limits, you have the ability to predict the future.There are countless methods of divination."/>
+	<special-quality name="Western Magician" description="You practice alchemy, Kabbalah, or some other form of Western sorcery. As such, you are a staff-wielding orthodox magician."/>
+	<special-quality name="Devil Summoner" description="You know the spells necessary to summon demons. Your tools of the trade are magic circles, a black cloak, and ancient books."/>
+	<special-quality name="Necromancer" description="You wield magic that lets you control the souls and bodies of the dead. Your tools of the trade include skulls and black clothes."/>
+</special-quality>
+
+<special-quality name="Absurd" description="You’re something that flies in the face of common sense.">
+	<special-quality name="Alien" description="You’re an alien who came to our world from somewhere in outer space. Your body can have some special properties if you wish."/>
+	<special-quality name="Cyborg" description="You were turned into a cyborg by an evil secret society or some other country. Your body can have some special features if you wish."/>
+	<special-quality name="Runaway Ninja" description="You ran away from your ninja village."/>
+	<special-quality name="Magical Girl" description="You came from a land of magic in order to train."/>
+	<special-quality name="Fairy" description="You’re one of the fae folk. You can be a generic pixie, or something more specific."/>
+	<special-quality name="Mutant" description="You’ve suffered some kind of strange mutation."/>
+</special-quality>
+
+</data>
