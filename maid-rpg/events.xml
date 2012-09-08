@@ -1,0 +1,295 @@
+<data>
+
+<!-- random: modern (p. 26) -->
+<event description="A rocket comes to the mansion..." world="contemporary"/>
+<event description="A herd of animals goes crazy" world="contemporary"/>
+<event description="A giant robot comes to the mansion..." world="contemporary"/>
+<event description="A treasure map is found in the study!" world="contemporary"/>
+<event description="A famous thief leaves his calling card" world="contemporary"/>
+<event description="An evil organization has a base beneath the mansion" world="contemporary"/>
+<event description="An unexploded warhead is underneath the mansion!" world="contemporary"/>
+<event description="Former ruler is causing trouble" world="contemporary"/>
+<event description="Fire!" world="contemporary"/>
+<event description="Earthquake!" world="contemporary"/>
+<event description="A wild animal escaped from the nearby zoo" world="contemporary"/>
+<event description="Surrounded by a mysterious group of ninjas!" world="contemporary"/>
+<event description="The mansion is attacked by terrorists" world="contemporary"/>
+<event description="Displaced local residents hold a demonstration" world="contemporary"/>
+<event description="A door to a fantasy world is discovered" world="contemporary"/>
+<event description="Zombie outbreak around the mansion!" world="contemporary"/>
+<event description="Someone dug up a dinosaur egg in the yard!" world="contemporary"/>
+<event description="Ghost of one of the master’s ancestors" world="contemporary"/>
+<event description="A UFO lands in the mansion’s garden" world="contemporary"/>
+<event description="A monster from the depths of the earth reawakens!" world="contemporary"/>
+<event description="An assassin targets the master!" world="contemporary"/>
+<event description="Abnormal Weather! The mansion is on an island." world="contemporary"/>
+<event description="A demon is unsealed!" world="contemporary"/>
+<event description="A cursed laughing doll is in the yard!" world="contemporary"/>
+<event description="A TV show comes to shoot some footage" world="contemporary"/>
+<event description="Princess of a ruined country flees to the mansion!" world="contemporary"/>
+<event description="Master caught a cold" world="contemporary"/>
+<event description="Master falls down the stairs!" world="contemporary"/>
+<event description="An expensive pot/vase gets smashed!" world="contemporary"/>
+<event description="Discovered an animal training room!" world="contemporary"/>
+<event description="Caught a glimpse of the master’s..." world="contemporary"/>
+<event description="Master was in a traffic accident!" world="contemporary"/>
+<event description="Swapped minds with the master!" world="contemporary"/>
+<event description="A killer strikes, starting with the butler!" world="contemporary"/>
+<event description="Master ran away from home!" world="contemporary"/>
+<event description="The seal that held a demon is broken!" world="contemporary"/>
+
+<!-- random: fantasy (p. 26) -->
+<event description="The Mage-King is reborn!" world="fantasy"/>
+<event description="The master is a chosen hero!" world="fantasy"/>
+<event description="There’s a dungeon underneath the mansion!" world="fantasy"/>
+<event description="The master is a reincarnation of an evil god!" world="fantasy"/>
+<event description="Discovered a torture chamber in the mansion!" world="fantasy"/>
+<event description="An evil dragon awakened in the mountains nearby!" world="fantasy"/>
+<event description="A former head of the family returns, undead!" world="fantasy"/>
+<event description="Found a treasure chest!" world="fantasy"/>
+<event description="A mobile fortress is drawing near!" world="fantasy"/>
+<event description="A band of heretics attacks the mansion!" world="fantasy"/>
+<event description="An archangel descends from heaven" world="fantasy"/>
+<event description="An assassin targets the master" world="fantasy"/>
+<event description="Princess of a ruined country flees to the mansion!" world="fantasy"/>
+<event description="A magical door opens into the modern world." world="fantasy"/>
+<event description="Zombie outbreak around the mansion!" world="fantasy"/>
+<event description="Find a magical tome in the study!" world="fantasy"/>
+<event description="Found a magical sword stuck in a stone in the yard!" world="fantasy"/>
+<event description="Discovered a mysterious orb!" world="fantasy"/>
+<event description="The troops of the evil empire are drawing near!" world="fantasy"/>
+<event description="The seal that held a demon is broken!" world="fantasy"/>
+<event description="A demon is unsealed" world="fantasy"/>
+<event description="An evil army starts building siege machines" world="fantasy"/>
+<event description="The mansion is a giant golem!" world="fantasy"/>
+<event description="Someone accidentally summoned a demon!" world="fantasy"/>
+<event description="A band of goblins attacks!" world="fantasy"/>
+<event description="Found a collapsed tribesman in front of the mansion!" world="fantasy"/>
+<event description="Master changed into an animal!" world="fantasy"/>
+<event description="Drank a potion that switches genders!" world="fantasy"/>
+<event description="A mysterious barrier surrounds the mansion" world="fantasy"/>
+<event description="Bandits attack" world="fantasy"/>
+<event description="The mansion is hit by a mysterious magical attack" world="fantasy"/>
+<event description="A Demon Gate opens! Demons swarm out!" world="fantasy"/>
+<event description="Found a treasure map!" world="fantasy"/>
+<event description="Master was abducted by some villain!" world="fantasy"/>
+<event description="Master has lost his memory!" world="fantasy"/>
+<event description="Separated from the mansion, on a quest..." world="fantasy"/>
+
+<!-- random: space (p. 26) -->
+<event description="Encounter with space pirates" world="space"/>
+<event description="Discover space smugglers doing business" world="space"/>
+<event description="Space merchant ship" world="space"/>
+<event description="Space slavers! High prices for maids!" world="space"/>
+<event description="Space refugees come begging" world="space"/>
+<event description="Galactic empire battleship, on a secret mission" world="space"/>
+<event description="Great Space Old Ones have returned to the galaxy, hungry for souls" world="space"/>
+<event description="Space Patrol doing an inspection" world="space"/>
+<event description="Bounty hunter trespasses!" world="space"/>
+<event description="Encounter with an alien life form." world="space"/>
+<event description="A mysterious escape pod lands in or near the mansion." world="space"/>
+<event description="Space wizard’s tower appears" world="space"/>
+<event description="Minefield from the great galactic war" world="space"/>
+<event description="Unmanned weapon from the great galactic war." world="space"/>
+<event description="Space ninjas attack!" world="space"/>
+<event description="Encounter with a space swordsman" world="space"/>
+<event description="A mysterious meteor swarm is coming closer!" world="space"/>
+<event description="Encounter with a drifting ship." world="space"/>
+<event description="A mysterious ghost ship" world="space"/>
+<event description="A giant space monster stirs" world="space"/>
+<event description="An assassin targets the master" world="space"/>
+<event description="Discovered a mysterious unmanned space fortress!" world="space"/>
+<event description="Attacked by space terrorists!" world="space"/>
+<event description="Space missionaries come to the mansion" world="space"/>
+<event description="Minor collision!" world="space"/>
+<event description="A mysterious psychic!" world="space"/>
+<event description="Find a magical tome in the study!" world="space"/>
+<event description="A demon is unsealed!" world="space"/>
+<event description="Space underwear thief!" world="space"/>
+<event description="A space battle unfolds before your eyes!" world="space"/>
+<event description="A famous space thief leaves his calling card" world="space"/>
+<event description="A space TV show comes to shoot some footage" world="space"/>
+<event description="A mysterious illness sweeps through the ship" world="space"/>
+<event description="Black Hole!" world="space"/>
+<event description="Bermuda Triangle of space!" world="space"/>
+<event description="Encounter with a previously unknown alien race!" world="space"/>
+
+<!-- mood: romance (p. 112) -->
+<event description="The Master gives encouragement to the maid who contributed the least to the day’s work. (+1D6 Favor)" mood="romance"/>
+<event description="The Master nearly trips, and when one of the maids tries to catch him, they wind up accidentally kissing. (The maid with the highest Athletics gains +2D6 Favor)." mood="romance"/>
+<event description="The Master takes a nap with his head in the lap of the maid with the highest Affection. (+1D6 Favor)" mood="romance"/>
+<event description="The Master pulls a frayed thread on one of the maids’ uniforms... The maid with the lowest Luck finds herself in her underwear and headdress." mood="romance"/>
+<event description="The maid with the lowest Will goes to the bathroom or her own room and cries by herself (5 minutes)." mood="romance"/>
+<event description="The Master feels lonely. The maids can make an opposed roll through whatever means they wish; the winner gets 10 minutes alone with the Master." mood="romance"/>
+<event description="As it so happens, today is the birthday of the maid with the highest Luck!" mood="romance"/>
+<event description="The Master accidentally sees or walks in on one of the maids changing her clothes. (+1D6 Favor)" mood="romance"/>
+<event description="Someone discovers an unfinished love letter the Master was writing. And it was addressed to... the maid with the highest Affection. (+1 bonus to the die roll for seduction attempts)." mood="romance"/>
+<event description="All’s fair in love and war! The maid with the lowest Affection is forcibly seduced by the maid to her right!" mood="romance"/>
+<event description="The maid with the lowest Skill spills the Master’s tea or food. (-1D6 Favor)" mood="romance"/>
+<event description="The maid with the highest Will brushes her hand against the Master’s... and their eyes meet. (+1 bonus to the die roll for seduction)." mood="romance"/>
+<event description="The Master accidentally touches the maid with the lowest Affection... He suddenly takes notice of her romantically. (+1 bonus to the die roll for seduction)." mood="romance"/>
+<event description="A sudden argument ends in passion! The first maid to get seduced automatically has a Tragedy. (No Will roll possible)." mood="romance"/>
+<event description="The two maids who have taken the most Stress can role-play comforting each other for ten minutes to remove all of their Stress." mood="romance"/>
+<event description="A maid with a past... The maid with the highest Skill gains one Trauma, rolled on the Trauma table in the optional rules section." mood="romance"/>
+<event description="You fall down and hurt your ankle! The maid with the lowest Skill has a -1 penalty to her Athletics (to a minimum of 0) for the rest of the session." mood="romance"/>
+<event description="A message from an elder! The maid with the most Favor turns out to be the Master’s sister!" mood="romance"/>
+
+<!-- mood: light-hearted (p. 112) -->
+<event description="The Master gives encouragement to the maid who contributed the least to the day’s work. (+1D6 Favor)" mood="light-hearted"/>
+<event description="The maid with the lowest cunning goes to the bathroom… and realizes there’s no toilet paper! What will she do?" mood="light-hearted"/>
+<event description="The ingredients were rotten? The Master has a stomach ache! If the maid who cooked the meal is around, she loses 2D6 Favor." mood="light-hearted"/>
+<event description="The Master pulls a frayed thread on one of the maids’ uniforms... The maid with the lowest Luck finds herself in her underwear and headdress." mood="light-hearted"/>
+<event description="The maid with the lowest Athletics slips and falls down the stairs, crashing down on the maid to her right (Both maids take 2D6 Stress)." mood="light-hearted"/>
+<event description="A stray cat wanders into the mansion! (Catching it requires an Athletics or Affection result of 8+)." mood="light-hearted"/>
+<event description="The maid with the highest Skill makes a mess of the food for some reason! (-1D6 Favor)" mood="light-hearted"/>
+<event description="The Master sees one of the maids changing her clothes. (+1D6 Favor)" mood="light-hearted"/>
+<event description="The maid with the highest Affection finds a compromising book under the Master’s mattress! She can give a single order to the Master." mood="light-hearted"/>
+<event description="All’s fair in love and war! The maid with the lowest Affection is forcibly seduced by the maid to her right!" mood="light-hearted"/>
+<event description="The maid with the lowest Skill spills the Master’s tea or food. (-1D6 Favor)" mood="light-hearted"/>
+<event description="The maid with the lowest luck breaks a piece of the Master’s tableware… (-1D6 Favor)." mood="light-hearted"/>
+<event description="It starts raining! Hurry and take in the laundry! The maid who gets the best result on an Athletics check gets 1D6 Favor." mood="light-hearted"/>
+<event description="Strange phenomenon! The maid with the lowest Cunning changes to the opposite gender! (Though his/her appearance doesn’t change too much…)" mood="light-hearted"/>
+<event description="A hidden power suddenly awakens! All maids with the Heroine Maid Type add +1 to any one attribute of choice." mood="light-hearted"/>
+<event description="A shocking truth... The maid with the highest Cunning gets to roll 1D6 on the Membership table for an additional Special Quality." mood="light-hearted"/>
+<event description="The maid with the highest Will has her dormant demonic heritage awaken! Roll 1D6 on the Monster table for an additional Special Quality." mood="light-hearted"/>
+<event description="The maid with the highest Luck finds the Master’s diary! But the moment she decides to read it, he finds out and she loses 3D6 Favor." mood="light-hearted"/>
+
+<!-- mood: action (p. 113) -->
+
+<!-- mood: hard-life (p. 113) -->
+
+<!-- mood: dark (p. 114) -->
+
+<!-- mood: horror (p. 114) -->
+
+<!-- world: fantasy (p. 115) -->
+<event description="A strange mist suddenly wraps itself around the mansion! The mansion becomes an isolated island, and all means of communication - even magic - are cut off..." world="fantasy"/>
+<event description="The Master joins a strange cult! At this rate he might just use the maids for ritual sacrifices!" world="fantasy"/>
+<event description="A special sword is stuck in the garden... The maid with the highest Affection changes to the Bikini Armor costume change." world="fantasy"/>
+<event description="The Master is actually a chosen hero! Only he can stop the invasion of the Demon King’s armies!" world="fantasy"/>
+<event description="An undead ancestor (Attributes 3/Spirit 10) comes to take the mansion back! What will you do?!" world="fantasy"/>
+<event description="An evil cult kidnaps the Master to use as a sacrifice! They’re going to do the deed in 12 hours!" world="fantasy"/>
+<event description="An archangel (Attributes 5/Spirit 5) descends from heaven! No mercy for the sinners!" world="fantasy"/>
+<event description="The Master loses his memory! He can’t remember his own maids!" world="fantasy"/>
+<event description="A traveler collapses at the mansion’s front door. (Create stats as per a Master, but with no Power Sources)." world="fantasy"/>
+<event description="An assassin (Attributes 4/Spirit 5) invades the mansion to kill the Master!" world="fantasy"/>
+<event description="The genie of the lamp! The genie grants the maid with the highest Luck is granted one wish." world="fantasy"/>
+<event description="Someone curses the Master with black magic to turn him into an animal!" world="fantasy"/>
+<event description="A swarm of cockroaches (Attributes 1/Spirit 0/3D6 of them) invades the mansion!" world="fantasy"/>
+<event description="A terrible epidemic has swept the land outside the mansion! Now people from outside have come to the mansion seeking help?!" world="fantasy"/>
+<event description="Discovered a hidden room! There’s an alchemist’s laboratory, and a giant fresco with a single young girl in the middle." world="fantasy"/>
+<event description="A god possesses the Maid with the highest Affection! For 5 minutes, she can give orders to anyone, even the Master!" world="fantasy"/>
+<event description="A vampire (Attributes 3/Spirit 10) awakens beneath the mansion. Friend or foe?" world="fantasy"/>
+<event description="The spirit of one of the Master’s ancestors (Attributes 3/Spirit 5) appears… Those who coldly reject him suffer a curse and lose 4D6 Favor." world="fantasy"/>
+<event description="A necromancer (Attributes 3/Spirit 10) appears, leading a small army of zombies! Want to negotiate?" world="fantasy"/>
+<event description="Someone comes seeking revenge! (Attributes 4/Spirit 10) The maid with the highest Athletics causing him an injury some time in the past, and now he’s back!" world="fantasy"/>
+<event description="Royal retainers come to tell the Master that he is now king! The Master becomes king, and the mansion becomes a royal castle!" world="fantasy"/>
+<event description="Demons and angels engage in the Last Battle! An injured demon comes to the mansion, and an angel comes having gotten lost..." world="fantasy"/>
+<event description="The demon king’s army is on the move! The advance guard (Attributes 3/Spirit 0/1D6 of them) come to conscript the mansion!" world="fantasy"/>
+<event description="The maid with the highest Cunning finds a magic book in the study containing a curse spell! This could be the birth of a new demon king!" world="fantasy"/>
+<event description="A dungeon appears beneath the mansion... The Master commands his maids to go and search it!" world="fantasy"/>
+<event description="A dragon (Attributes 5/Spirit 10) awakens beneath the earth! It bursts through the ground in the mansion’s garden and begins a rampage!" world="fantasy"/>
+<event description="Discovered a massive jewel that contains a strange power! The maid with the highest Luck monopolizes it, and gains a Power Source." world="fantasy"/>
+<event description="The Master drank a gender-switching potion! The Master is now of the opposite sex!" world="fantasy"/>
+<event description="There’s a treasure chest in the mansion! The maid with the highest Luck gets one Item at random!" world="fantasy"/>
+<event description="There’s a ghost in the mansion! A ghost (Attributes 2/Spirit 10) appears, with a randomly rolled Trauma." world="fantasy"/>
+<event description="A Shinigami/Death Reaper (Attributes 4/Spirit 10) pays a visit. Until it is defeated, everyone in the mansion has their Stress Explosion become Death." world="fantasy"/>
+<event description="A carriage bearing a princess (roll for random Maid Types) fleeing from a knight (Attributes 3/Spirit 5) from an enemy nation!" world="fantasy"/>
+<event description="A blessing from the Earth god?! The power of nature covers the land! Use the Wild Kingdom table for random events." world="fantasy"/>
+<event description="Civilization flowers! The World becomes Modern, and random events use the Modern table." world="fantasy"/>
+<event description="A gate to another world! The World becomes Contemporary, and random events use the Contemporary table." world="fantasy"/>
+<event description="Magical power runs rampant across the world! The world becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="fantasy"/>
+
+<!-- world: early modern (p. 116) -->
+<event description="The boiler explodes! It starts a fire! And the Master is trapped inside! (Rescuing him requires an Athletics or Affection result of 12)." world="early-modern"/>
+<event description="Someone arrives with higher standing than the Master! The Master must meet even his most unreasonable demands, or his position could be in danger!" world="early-modern"/>
+<event description="A hoodlum (Attributes 2/Spirit 0) breaks into the mansion! Deal with him any way you like!" world="early-modern"/>
+<event description="Stampeding animals (Attributes 3/Spirit 15) surround the mansion!" world="early-modern"/>
+<event description="A sudden storm! The mansion is left on a solitary island of land! All communication is cut off..." world="early-modern"/>
+<event description="The Master is harassed by relatives who are jealous of his position! They incessantly pester of the master and his maids..." world="early-modern"/>
+<event description="An epidemic! The Master falls ill! Hurry, do whatever it takes to restore the Master back to health!" world="early-modern"/>
+<event description="The Master falls down the stairs, and breaks his leg... For the rest of the session he can’t walk and insists that the maids take care of him." world="early-modern"/>
+<event description="The mansion’s basement connects to the hideout of an antigovernment organization! And the master is a member! What will become of the maids?" world="early-modern"/>
+<event description="A rampaging mob comes to the mansion! No matter how many you defeat, there seems no end to it! Escape while the Master is safe!" world="early-modern"/>
+<event description="Meetings inevitably lead to partings... The Master must leave for a place far away, and no one can go with him. The maids must welcome a new Master." world="early-modern"/>
+<event description="The mansion hosts a part for the elite of society.The maids are relegated to the role of mere servants, but what of the Master...?" world="early-modern"/>
+<event description="Mass food poisoning! The maid who prepared the most recent meal loses 2D6 Favor, and everyone takes 2D6 Stress." world="early-modern"/>
+<event description="The secret police come to arrest the Master! If they catch him, he’ll be tortured and executed! Will the maids defy the government?" world="early-modern"/>
+<event description="A new secret is revealed! The Master gains a new random Master Special Quality." world="early-modern"/>
+<event description="A cursed bloodline! The family tree makes it all too clear! The maids are actually all blood relatives of the Master!" world="early-modern"/>
+<event description="Discovered a massive jewel that contains a strange power! The maid with the highest Luck monopolizes it, and gains a Power Source." world="early-modern"/>
+<event description="The parents of the maid with the lowest Will are coming the mansion. The maid in question can try to plant the right information ahead of time." world="early-modern"/>
+<event description="An ancient city rises up from the bottom of the sea! Psychic waves from the sleeping ruler cause any maids with a Luck of 2 or less to take 3D6 Stress." world="early-modern"/>
+<event description="A legitimate heir to the mansion — and its maids — arrives! Create a new Master, who appears as an NPC." world="early-modern"/>
+<event description="The military comes to the mansion to collect a levy! Opposing them means fighting the government!" world="early-modern"/>
+<event description="Runaway train! A derailed locomotive somehow crashes into the mansion!" world="early-modern"/>
+<event description="An inheritance from the witch that once inhabited the mansion! The maid with the highest Luck gets one item at random!" world="early-modern"/>
+<event description="A murderer (Attributes 3/Spirit 10) enters the mansion... The sound of footsteps draws near!" world="early-modern"/>
+<event description="There’s buried treasure in the mansion’s garden! If you don’t hide it well the government will come and confiscate it!" world="early-modern"/>
+<event description="The maid with the highest Cunning finds poison behind a hidden door! If she can make a Cunning roll of 12, she can kill the Master if she wishes." world="early-modern"/>
+<event description="A sudden evening shower over the mansion! Everyone gets wet! The maids had better hurry and change their clothes. But it makes quite a distraction..." world="early-modern"/>
+<event description="The Master fights a duel with a nobleman! Better be there to cheer him on, or...!" world="early-modern"/>
+<event description="A mysterious thief left a notice! If the maids don’t make sufficient preparations, the mansion’s most valuable object (the maids can decide what it is) will be stolen!" world="early-modern"/>
+<event description="A sealed room murder! The bodies of several maids (or maybe butlers?) not included on the Encounter Table are in the room!" world="early-modern"/>
+<event description="There’s a ghost in the mansion! A ghost (Attributes 2/Spirit 10) appears, with a randomly rolled Trauma." world="early-modern"/>
+<event description="Fate suddenly intervenes! The maid with the highest Affection receives a confession of love from someone visiting from another mansion!" world="early-modern"/>
+<event description="The spirit of one of the Master’s ancestors (Attributes 3/Spirit 5) appears...Those who coldly reject him suffer a curse and lose 4D6 Favor." world="early-modern"/>
+<event description="The princess of a small country (Pure x 2) comes fleeing her own wedding!" world="early-modern"/>
+<event description="Time shift! The world becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="early-modern"/>
+<event description="Doorway to a mysterious world! The world becomes Fantasy, and random events use the Fantasy table." world="early-modern"/>
+
+<!-- world: contemporary (p. 117) -->
+
+<!-- world: space (p. 118) -->
+
+<!-- world: cyber (p. 119) -->
+
+<!-- world: post-apocalyptic (p. 120) -->
+
+<!-- world: wild-kingdom (p. 121) -->
+
+<!-- world: old-west (p. 121) -->
+
+<!-- world: old-edo (p. 122) -->
+
+<!-- weather (normal) (p. 123) -->
+<event description="Sudden downpour. You’d better hurry and take the laundry in..." type="normal-weather"/>
+<event description="A gentle rain falls. It looks like you won’t be able to dry the laundry outside today." type="normal-weather"/>
+<event description="The downpour is so intense you worry it will become a natural disaster. The mansion might become flooded too..." type="normal-weather"/>
+<event description="Rain. You wouldn’t want to go outside, but the sound of the raindrops is soothing." type="normal-weather"/>
+<event description="The fierce falling rain pounds on the roof. It’s annoying, and makes it hard to get into a good mood." type="normal-weather"/>
+<event description="The rain passes, and there is a beautiful rainbow. You can’t help but be put into a good mood." type="normal-weather"/>
+<event description="Cirrocumulus clouds. They don’t look likely to cause rain." type="normal-weather"/>
+<event description="Cirrostratus clouds. These thin clouds can create a halo effect on the sun. There probably won’t be any rain." type="normal-weather"/>
+<event description="Altocumulus clouds, sometimes called “sheep clouds.”They can look like ice cream, or sometimes the Master’s face." type="normal-weather"/>
+<event description="Cumulonimbus clouds. Gigantic columns of cloud. Puffy and amusing. But below them there can be thunder..." type="normal-weather"/>
+<event description="Nimbostratus clouds, also known as rain clouds. It hasn’t started raining yet, but..." type="normal-weather"/>
+<event description="Cumulus clouds. Fleecy clouds. They look like countless pictures painted on the canvas of the sky." type="normal-weather"/>
+<event description="Nice weather. Perfect for doing laundry." type="normal-weather"/>
+<event description="A clear, cloudless day. It’s hot enough that your bed could be uncomfortably warm, though timing is everything." type="normal-weather"/>
+<event description="Strong UV rays. Better not spend too much time outside." type="normal-weather"/>
+<event description="The sunlight is warm and pleasant. You could bask in the sun on the veranda with the Master..." type="normal-weather"/>
+<event description="Even though it’s a clear day, it seems gloomy somehow. Your clothes unpleasantly cling to your skin." type="normal-weather"/>
+<event description="The weather suddenly turns nice and warm. It might be nice to go outside." type="normal-weather"/>
+
+<!-- weather (severe) (p. 123) -->
+<event description="A cold day. You want to turn on the heater. Either that or stay close and use body warmth..." type="severe-weather"/>
+<event description="There is a cold wind. If you go outside you’ll want to put on a shawl or cardigan." type="severe-weather"/>
+<event description="The temperature is pleasant, neither too cold nor too hot." type="severe-weather"/>
+<event description="It’s just a little hot. But even in a maid uniform you should be fine." type="severe-weather"/>
+<event description="30 degrees Celsius. Everyone is sweaty. Long sleeves just won’t work here." type="severe-weather"/>
+<event description="The outside temperature is above human body temperature. Everyone starts to hate the very word “hot.”" type="severe-weather"/>
+<event description="Strong winds make the mansion’s windows clatter." type="severe-weather"/>
+<event description="Unusually high humidity. Everything feels damp, and everything that can stick does." type="severe-weather"/>
+<event description="Unusual dryness makes you feel thirsty." type="severe-weather"/>
+<event description="Distant thunder. The sound comes about 10 seconds after the flash. By the way, do you like thunder?" type="severe-weather"/>
+<event description="Lightning strikes the mansion directly, with a thundering roar and a blinding flash. Are the electronics okay?" type="severe-weather"/>
+<event description="A mild earthquake. A little scary, huh?" type="severe-weather"/>
+<event description="Hail. Chunks of ice rain down from the sky. You wouldn’t want to go outside in that..." type="severe-weather"/>
+<event description="Sleet, which is basically a mixture of rain and snow that comes down in splatters." type="severe-weather"/>
+<event description="Occasional snow. This could make for a great atmosphere." type="severe-weather"/>
+<event description="A foot of snowfall. Just right for playing in." type="severe-weather"/>
+<event description="A blizzard throws out enough snow to bury the mansion. This is way too much to play in." type="severe-weather"/>
+<event description="Major earthquake. Will the mansion be alright?" type="severe-weather"/>
+
+</data>

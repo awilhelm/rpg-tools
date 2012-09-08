@@ -1,0 +1,66 @@
+<data>
+
+<appearance name="Castle" description="A fortress made of stone, built with sieges and large-scale combat in mind. It’s more for military use than living in per se." world="fantasy"/>
+<appearance name="Palace" description="This is an extravagant house that nobles and very wealthy merchants live in, with many magnificent lobbies and terraces." world="fantasy"/>
+<appearance name="House" description="This is an ordinary house, or at least something that resembles such. It might be a little crowded for having lots of maids…" world="fantasy"/>
+<appearance name="Ruins" description="Any way you look at it, these decayed ruins of a mansion don’t look inhabitable. And yet, someone might just live there." world="fantasy"/>
+<appearance name="Tower" description="This is a great tower that rises high above its surroundings. Many who live in such places wish to be apart from the world." world="fantasy"/>
+<appearance name="Dungeon" description="There are those who live in a dungeon protected by many traps and monsters. Naturally, in such a place one needs the help of maids." world="fantasy"/>
+
+<appearance name="Castle" description="A fortified building patterned after those of days gone by. It’s probably more livable than those of the past, but not really a proper residence." world="early-modern"/>
+<appearance name="Palatial Residence" description="This is an extravagant house that nobles and the wealthy live in, with many magnificent lobbies and terraces." world="early-modern"/>
+<appearance name="House" description="This is an ordinary house, or at least something that resembles such. It might be a little crowded for having lots of maids…" world="early-modern"/>
+<appearance name="Ruins" description="Any way you look at it, these decayed ruins of a mansion don’t look inhabitable. And yet, someone might just live there." world="early-modern"/>
+<appearance name="Bar" description="This is a classy club, or a bar where outlaws hang out. However, the mere presence of maids changes everything." world="early-modern"/>
+<appearance name="Military Installation" description="An important military installation, such as a fortress or base. Even here, maids aren’t far off…" world="early-modern"/>
+
+<appearance name="Business" description="With maids around, a shop will surely never want for customers. The GM can decide what kind of shop it is." world="contemporary"/>
+<appearance name="Palatial Residence" description="Even today there are extravagant houses, and those with the money to spend will want them. It’s up to the GM whether it’s a Western or Japanese style house." world="contemporary"/>
+<appearance name="House" description="An ordinary house. It might be a little crowded for having lots of maids…" world="contemporary"/>
+<appearance name="Ruins" description="Any way you look at it, these decayed ruins of a mansion don’t look inhabitable. And yet, someone might just live there." world="contemporary"/>
+<appearance name="Room" description="A one-room apartment or condominium. The Master and his maids live together in this cramped space!" world="contemporary"/>
+<appearance name="Laboratory" description="This place is a treasure-trove of information and brainpower. In order to ease the hearts of those who do such tiring work, maids are a must." world="contemporary"/>
+
+<appearance name="Warship" description="This is a massive battleship built to fight in space. For the rough men who live and work here, maids are the best medicine…" world="space"/>
+<appearance name="Extravagant Spaceship" description="This spaceship is built more for luxurious living than practicality, and as such it’s practically a personal colony." world="space"/>
+<appearance name="Colony" description="This is a residence set up in the void of space. They’re often built in orbit of a particular planet." world="space"/>
+<appearance name="Second-Hand Spaceship" description="This is a cramped spaceship bought on the cheap, or maybe even built out of junk. But you’re free, and only the Master can take the sky from you." world="space"/>
+<appearance name="Private Planet" description="The Master owns his own planet, for his own private residence." world="space"/>
+<appearance name="Artificial Planet" description="This is a man-made planet created with machines. Or it might be a giant weapon. It no doubt contains some incredible secret." world="space"/>
+
+<appearance name="Palatial Residence" description="This is the kind of extravagant house that wealthy businessmen and politicians live in, with many magnificent lobbies and terraces." world="cyber"/>
+<appearance name="Business" description="With maids around, a shop will surely never want for customers. The GM can decide what kind of shop it is." world="cyber"/>
+<appearance name="Office" description="This cheap office space serves as a residence as well as a place of business. The detective, lawyer, etc. who lives here has maids to help him out." world="cyber"/>
+<appearance name="Ruins" description="Any way you look at it, these decayed ruins of a mansion or office building don’t look inhabitable. And yet, someone might just live there." world="cyber"/>
+<appearance name="Room" description="A one-room apartment or condominium. The Master and his maids live together in this cramped space!" world="cyber"/>
+<appearance name="Corporate" description="In this cold corporate office, where information is always on the move, the warmth of maids is sometimes needed…" world="cyber"/>
+
+<appearance name="Castle" description="The truly powerful reside in one of these fortified buildings made of metal and concrete." world="post-apocalyptic"/>
+<appearance name="Underground Facility" description="In this age, those who fear violence sometimes sequester themselves deep underground. In such an era, maids are needed as a shining ray of hope." world="post-apocalyptic"/>
+<appearance name="Fortress" description="A reinforced building, specifically made to withstand outside attacks. It will not be brought down easily." world="post-apocalyptic"/>
+<appearance name="Ruins" description="This is the decaying remains of a mansion. However, in this day and age anything with a foundation and some walls is better than most people have." world="post-apocalyptic"/>
+<appearance name="Tower" description="Perhaps it was once an ordinary building... This tall tower has long ago lost its original purpose." world="post-apocalyptic"/>
+<appearance name="Prison" description="This is no doubt an impregnable stronghold, but getting out is next to impossible!" world="post-apocalyptic"/>
+
+<appearance name="Tree-house" description="This is an elaborate home built high in the trees. Hope you like traveling by vine." world="wild-kingdom"/>
+<appearance name="Fortress" description="This modern fortress has high metal walls to keep out the dangers of the wilderness outside." world="wild-kingdom"/>
+<appearance name="Huts" description="You live in one or more huts, in the style of the native people. It’s not the most glamorous place to live, but it keeps the rain out at least." world="wild-kingdom"/>
+<appearance name="House" description="This is an ordinary house, or at least something that resembles such, despite being situated where it is. It might be a little crowded for having lots of maids…" world="wild-kingdom"/>
+<appearance name="Ruins" description="Any way you look at it, these decayed ruins of an ancient building don’t look inhabitable. And yet, someone might just live there." world="wild-kingdom"/>
+<appearance name="Palatial Residence" description="Even today there are extravagant houses, and those with the money to spend will want them. Of course, not everyone wants theirs located in the midst of a dangerous wilderness." world="wild-kingdom"/>
+
+<appearance name="Palatial Residence" description="This is the kind of extravagant residence that wealthy politicians, industrialists, and mob bosses live in." world="old-west"/>
+<appearance name="Saloon" description="A wretched hive of scum, villain, and prostitutes. This bar is a loud and rough place to get a drink!" world="old-west"/>
+<appearance name="Casino" description="A palace of gambling, and a bank to lend out money, all in one. A centerpiece of the Old West’s economy!" world="old-west"/>
+<appearance name="Church" description="An old church... But don’t underestimate the priest!" world="old-west"/>
+<appearance name="Ranch" description="The Master raises livestock out in the countryside. Somewhere amid all the horses, cows, and goats… there are maids…" world="old-west"/>
+<appearance name="The Open Road" description="The Master is a wanderer. And the maids follow him, wherever he might go!" world="old-west"/>
+
+<appearance name="Castle" description="A majestic Japanese-style castle. Only a very select group of people can live here!" world="old-edo"/>
+<appearance name="Ninja Village" description="Demands for secrecy can no longer be met. On the other hand there’s no shortage of opportunities to learn ninja techniques." world="old-edo"/>
+<appearance name="Samurai Residence" description="The samurai embody the rising sun! Nothing can withstand their dignity!" world="old-edo"/>
+<appearance name="Tenement" description="This is a living space for the townspeople. Even here there are people for maids to serve." world="old-edo"/>
+<appearance name="Red Light District" description="This place is bound by its own special laws, and here maid player characters can attain their own kind of status…" world="old-edo"/>
+<appearance name="Shinto Shrine" description="The characters are Shrine Maidens rather than maids, and the one they serve might be the shrine’s god." world="old-edo"/>
+
+</data>

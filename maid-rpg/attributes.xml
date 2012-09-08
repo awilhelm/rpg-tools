@@ -1,0 +1,8 @@
+<data>
+<attribute name="Athletics" description="Physical ability, combat ability." attribute="athletics"/>
+<attribute name="Affection" description="How good are you at forming bonds with your master and the other maids?" attribute="affection"/>
+<attribute name="Skill" description="How good are you at your maid duties?" attribute="skill"/>
+<attribute name="Cunning" description="How capable are you at tricking enemies and other maids, and deceiving the master?" attribute="cunning"/>
+<attribute name="Luck" description="Just how lucky are you?" attribute="luck"/>
+<attribute name="Will" description="How positive and constructive is your thinking?" attribute="will"/>
+</data>

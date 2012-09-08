@@ -1,0 +1,11 @@
+<data>
+<world name="Fantasy" description="This is medieval swords and sorcery type fantasy, in a European style.The GM is free to come up with the fine details of the setting." world="fantasy"/>
+<world name="Early Modern" description="The game takes place in the late 1800s or early 1900s.The steam engine is changing the world, and Westerners are exploring more and more of the world. In this time maids were an everyday sight." world="early-modern"/>
+<world name="Contemporary" description="The game takes place in present-day Japan, or maybe even some other country. Somewhere where there are people with lots of money, in any case." world="contemporary"/>
+<world name="Space" description="Outer space is vast, and somewhere in that vastness, there are maids.Well, there could be." world="space"/>
+<world name="Cyber" description="This is a world ruled by the power of technology. There could still be maids in such a world." world="cyber"/>
+<world name="Post-Apocalyptic" description="The world was destroyed in fire! But... some of humanity survived! And naturally that includes maids." world="post-apocalyptic"/>
+<world name="Wild Kingdom" description="In the midst of a beautiful and dangerous wilderness, someone has built a mansion. And naturally this madman has brought some maids along." world="wild-kingdom"/>
+<world name="Old West" description="The game takes place on the frontier of the expanding United States, a time when pioneers do their best to survive, and gunfighters duel in the streets. At this point do we even need to mention that there are maids?" world="old-west"/>
+<world name="Old Edo" description="It is the closing days of the Tokugawa Shogunate, the mid-1800s. Here in Edo (which would later be called “Tokyo”) the opening of Japan has brought the custom of employing maids from the West." world="old-edo"/>
+</data>

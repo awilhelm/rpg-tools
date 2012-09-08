@@ -1,0 +1,38 @@
+<data>
+<special-facility name="Beach" description="There’s a private beach right next to the mansion. Roll an extra die for any Romantic Activities done by two people on the beach."/>
+<special-facility name="Large Bath" description="The mansion has a large bath, such that everyone who lives there could easily get in at once. (Gain +1D6 Favor when bathing)"/>
+<special-facility name="Open-Air Bath" description="The mansion has an open-air bath fed by natural hot springs on the grounds. Once a day one can bathe there and remove 2D6 Stress."/>
+<special-facility name="Indoor Pool" description="There’s an indoor pool with pleasantly warm water. The cost of swimsuit costume changes is halved (round down)."/>
+<special-facility name="Outdoor Pool" description="A pool you can’t use in the winter. There’s a shark or crocodile (attributes at 3) kept in it as a pet."/>
+<special-facility name="Tennis Court" description="There’s a tennis court on the grounds. The cost of the Tennis Wear costume change is reduced to 2."/>
+<special-facility name="Perfect Shielding" description="The mansion is protected to the point that it could be dropped into the ocean or shot into space. Life can carry on as usual if the mansion is submerged or in a vacuum, and it could easily survive a flood."/>
+<special-facility name="Soundproof" description="Short of using a wiretap or some such, it’s impossible to hear what’s going on in one room from another."/>
+<special-facility name="Preliminary Construction" description="Underground or somewhere nearby, there is the preliminary construction for a mansion. If the current mansion it destroyed for whatever reason, a new one can be built once for the next session."/>
+<special-facility name="Mobility" description="The mansion itself is equipped to move fairly quickly. It’s possible to use the mansion itself to fend off attackers."/>
+<special-facility name="Barrier" description="The mansion is surrounded by an electromagnetic barrier. Attacks against the mansion have a -10 penalty to the die roll."/>
+<special-facility name="Electromagnetic Isolation" description="Signaling devices, as well as telepathy, cannot be used within the mansion. As such, anyone who enters the mansion and is separated will be completely isolated."/>
+<special-facility name="Game Room" description="The mansion has a room for playing games, preferably games of chance like mahjong or poker. It’s possible to play games in such a way that the loser can remove an article of clothing rather than take Stress."/>
+<special-facility name="Medical Room" description="A room set up for medical treatment.You can spend your own Favor to reduce the Stress of another PC, without having to roll."/>
+<special-facility name="Religious Facility" description="The mansion is equipped with a shrine or church. The cost of the “Shrine Maiden” and “Nun” costume changes is halved (round down) here."/>
+<special-facility name="Secret Annex" description="A secret part of the mansion removed from the rest. Any PC can spend 10 Favor to get the effect of the“World For Two” Maid Power."/>
+<special-facility name="Canopied Bed" description="Perfect for those moody nights. Maids and head maids get a bonus of +1 to die rolls for actions relating to this bed."/>
+<special-facility name="Traces of Memories" description="This place has a lot of memories. If your Maid Roots are Childhood Friend, Hereditary Maid, or Distant Relative, add +10 to your starting Favor."/>
+<special-facility name="Self-Destruct Switch" description="The mansion is equipped with a switch that will annihilate it in an instant. The Master can eliminate any NPC instantly, but will lose his mansion in the process."/>
+<special-facility name="Strategic Preparations" description="The furniture and such in the mansion are carefully arranged with combat tactics in mind. Add +1 to the die roll when attacking with a Maid Weapon or Butler Weapon."/>
+<special-facility name="Treasury" description="This room contains vast amounts of wealth or power. The Master can have a third Power Source."/>
+<special-facility name="Stable" description="A building for keeping horses. There is a horse (attributes 2/Spirit 0) for each person living in the mansion."/>
+<special-facility name="Jungle" description="Regardless of game world, the mansion is surrounded by thick jungle. Use the “Wild Kingdom” random event table."/>
+<special-facility name="Private Army" description="There is a private military force stationed at the mansion. Treat these troops are considered pets with all attributes at 3."/>
+<special-facility name="Superintendent" description="There is someone in charge of managing the mansion’s affairs. The head maid gains a “Superintendent” Special Quality, and a +1 bonus to Affection and Will."/>
+<special-facility name="Secret Base" description="The mansion is actually a secret base. Because of its concealed nature, add +1 to die rolls for combat against organizations."/>
+<special-facility name="Waste Disposal Facility" description="The mansion has a waste disposal facility. By taking 10 points of Stress characters can get rid of cursed items."/>
+<special-facility name="Underground Kingdom" description="There is a vast and strange world beneath the mansion. The character with the highest Cunning gets a +1 bonus to all die rolls."/>
+<special-facility name="Secret Passages" description="The mansion is full of secret passages. Roll on the mansion’s encounter table to find out who you run into."/>
+<special-facility name="Portrait" description="A portrait of the Master. The character with the highest Affection can, once per day, gaze at the portrait and gain 2 points of Favor."/>
+<special-facility name="Laboratory" description="A rather suspicious-looking laboratory. The cost of the Scientist costume change is halved (round down)."/>
+<special-facility name="Otherworld Gate" description="A gate to another world. If it is opened, roll on the World table again; the entire mansion is moved to that world."/>
+<special-facility name="Hidden Room" description="A hidden room. Once per scenario someone can open it to get a random Item or Special Facility."/>
+<special-facility name="Torture Room" description="A room used for torturing people. Anyone can spend 2D6 Favor to use the Maid Powers of Punishment or Lie Detector."/>
+<special-facility name="Old Well" description="A gloomy, abandoned well. At the well, you can spend 1 point of Favor to roll on the “Horror” Normal Event table."/>
+<special-facility name="Dungeon" description="An underground prison. NPC enemies can be imprisoned here instead of dying."/>
+</data>
