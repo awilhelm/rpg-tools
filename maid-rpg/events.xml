@@ -155,12 +155,84 @@
 <event description="The maid with the highest Luck finds the Master’s diary! But the moment she decides to read it, he finds out and she loses 3D6 Favor." mood="light-hearted"/>
 
 <!-- mood: action (p. 113) -->
+<event description="A cockroach! If the Master is there you lose 1D6 Favor. If the Master doesn’t see it, you can put an end to it with a Skill result of 6 or higher." mood="action"/>
+<event description="The maid with the lowest Skill falls down! If the Master notices he’ll take care of her. (+2D6 Favor)" mood="action"/>
+<event description="The maid with the lowest Will catches on the hem of her skirt and drops some plates! She has to get a result of 8 or better on an Athletics check or lose 1D6 Favor." mood="action"/>
+<event description="Something is about to fall on the Master’s head! If someone doesn’t get an Athletics result of 10 or higher, the Master will take 10 Stress." mood="action"/>
+<event description="The maid with the lowest Athletics slips and falls down the stairs, crashing down on the maid to her right (Both maids take 2D6 Stress)." mood="action"/>
+<event description="A stray cat wanders into the mansion! (Catching it requires an Athletics or Affection result of 8+)." mood="action"/>
+<event description="Undying love! For the rest of the session, if a maid is seduced she must always stick close to her partner, and continually try to seduce them back." mood="action"/>
+<event description="The Master sees one of the maids changing her clothes. (+1D6 Favor)" mood="action"/>
+<event description="There’s someone on the roof! The cunning devil! A maid who gets a Skill result of 10 or higher can catch them, and gets 2D6 Favor." mood="action"/>
+<event description="Curing everyone’s fatigue is part of a maid’s job too... The maid with the highest Affection gains 2D6 Favor, and everyone else gets to remove the same amount of Stress." mood="action"/>
+<event description="A casual glance reveals an item... The maid with the highest luck gets a random item!" mood="action"/>
+<event description="Sniper! An Athletics result of 10 or higher is required to protect the master. The sniper gets away." mood="action"/>
+<event description="It starts raining! Hurry and take in the laundry! The maid who gets the best result on an Athletics check gets 1D6 Favor." mood="action"/>
+<event description="The Master accidentally witnesses your special training! The maid with the highest Affection gains 1D6 Favor." mood="action"/>
+<event description="A hidden power suddenly awakens! All maids with the Heroine Maid Type add +1 to any one attribute of their choice." mood="action"/>
+<event description="Mechanization surgery! One maid who is having a Stress Explosion or who had one recently, gains the Android Special Quality, and her Stress drops to zero." mood="action"/>
+<event description="The maid with the highest Will awakens to her true powers! For this session only she gains one additional Maid Power." mood="action"/>
+<event description="Your Maid Weapon suddenly unleashes a new form! For this session only, add +1 to the die roll when using it." mood="action"/>
 
 <!-- mood: hard-life (p. 113) -->
+<event description="The Master gives encouragement to the maid who contributed the least to the day’s work. (+1D6 Favor)" mood="hard-life"/>
+<event description="The maid with the lowest Skill falls down! If the Master notices, he’ll take care of her. (+2D6 Favor)" mood="hard-life"/>
+<event description="There is a sudden downpour accompanied by lightning. Despite being inside, the Master takes 2D6 Stress!" mood="hard-life"/>
+<event description="Trickery is revealed! Any characters (PCs or NPCs) who were seduced take 10 Stress, and if that’s enough to cause a Stress Explosion, a Tragedy results." mood="hard-life"/>
+<event description="The maid with the lowest Will goes to the bathroom or her own room and cries by herself (5 minutes)." mood="hard-life"/>
+<event description="The Master feels lonely. The maids can make an opposed roll through whatever means they wish. The winner gets 10 minutes alone with the Master." mood="hard-life"/>
+<event description="Bad news! The Master loses one of his Power Sources. (If he doesn’t have any more, he must become a maid or butler)." mood="hard-life"/>
+<event description="The maid with the lowest Luck find out the weak spot of the maid with the highest Cunning! She can give any one order (except dismissal)." mood="hard-life"/>
+<event description="Death sentence! The Master is going to die at the end of this scenario! Everyone, get your performances ready!" mood="hard-life"/>
+<event description="All’s fair in love and war! The maid with the lowest Affection is forcibly seduced by the maid to her right!" mood="hard-life"/>
+<event description="There’s someone on the roof! The cunning devil! A maid who gets a Skill result of 10 or higher can catch them, and gets 2D6 Favor." mood="hard-life"/>
+<event description="Sniper! An Athletics result of 10 or higher is required to protect the master. The sniper gets away." mood="hard-life"/>
+<event description="Roll on your encounter table twice (re-roll if you get the same character)! Those two both love each other! (They seduce each other)." mood="hard-life"/>
+<event description="A sudden argument ends in passion! The first maid to get seduced automatically has a Tragedy. (No Will roll possible)." mood="hard-life"/>
+<event description="Mechanization surgery! One maid who is having a Stress Explosion or who had one recently, gains the Android Special Quality, and her Stress drops to zero." mood="hard-life"/>
+<event description="A maid with a past... The maid with the highest Skill gains one Trauma, rolled on the Trauma table." mood="hard-life"/>
+<event description="A maid with a secret... The maid with the highest Skill gets to roll 1D6 on the Secret Job table for an additional Special Quality." mood="hard-life"/>
+<event description="A shocking truth... The maid with the highest Cunning gets to roll 1D6 on the Membership table for an additional Special Quality." mood="hard-life"/>
 
 <!-- mood: dark (p. 114) -->
+<event description="A black cat wanders into the mansion, and its meow resounds through the mansion! Everyone gets a -1 penalty to the die roll for Luck-based actions for the rest of the scenario!" mood="dark"/>
+<event description="A notebook detailing someone’s grudges is discovered! (Roll on the Encounter Table to determine whose it is). The owner loses 1D6 Favor, and everyone else takes 3D6 Stress!" mood="dark"/>
+<event description="There is a sudden downpour accompanied by lightning. Despite being inside, the Master takes 2D6 Stress!" mood="dark"/>
+<event description="Trickery is revealed! Any characters (PCs or NPCs) who were seduced take 10 Stress, and if that’s enough to cause a Stress Explosion, a Tragedy results." mood="dark"/>
+<event description="The maid with the lowest Will goes to the bathroom or her own room and cries by herself (5 minutes)." mood="dark"/>
+<event description="A vengeful god comes to roost! Anyone engaging in combat with the maid with the lowest Luck gets a +1 bonus to their attribute for that roll." mood="dark"/>
+<event description="Bad news! The Master loses one of his Power Sources. (If he doesn’t have any more, he must become a maid or butler)." mood="dark"/>
+<event description="Bad news arrives from a relative... The Master takes 15 Stress." mood="dark"/>
+<event description="Death sentence! The Master is going to die at the end of this scenario! Everyone, get your performances ready!" mood="dark"/>
+<event description="Pleasure mixed with pain... For the rest of the scenario every time the maid with the highest Will takes Stress, she gains the same amount of Favor." mood="dark"/>
+<event description="Roll on your encounter table twice (re-roll if you get the same character)! Those two both love each other! (They seduce each other)." mood="dark"/>
+<event description="Twisted love! A maid who has been seduced engages in Affection Combat with her partner, and gains Favor equal to double the amount of Stress she causes." mood="dark"/>
+<event description="Deadly love! Roll 1D6 once on the Encounter Table; engage that character in weapon-based combat, and gain Favor equal to the amount of Stress caused." mood="dark"/>
+<event description="A sudden argument ends in passion! The first maid to get seduced automatically has a Tragedy. (No Will roll possible)." mood="dark"/>
+<event description="The corpse of a cat is found at the door of the mansion... Is it an ill omen? Or part of some scheme...?" mood="dark"/>
+<event description="Past scars are revealed to everyone... The maid with the lowest Cunning rolls on the Injury table for a new Special Quality." mood="dark"/>
+<event description="The darkness of her heart is revealed! The maid with the lowest Luck rolls on the Criminal Tendencies table for a new Special Quality." mood="dark"/>
+<event description="A hidden side comes to light... The maid with the highest Affection rolls on the Perversion table for a new Special Quality." mood="dark"/>
 
 <!-- mood: horror (p. 114) -->
+<event description="A black cat wanders into the mansion, and its meow resounds through the mansion! Everyone gets a -1 penalty to the die roll for Luck-based actions for the rest of the scenario!" mood="horror"/>
+<event description="A notebook detailing someone’s grudges is discovered! (Roll on the Encounter Table to determine whose it is). The owner loses 1D6 Favor, and everyone else takes 3D6 Stress!" mood="horror"/>
+<event description="There is a sudden downpour accompanied by lightning. Despite being inside, the Master takes 2D6 Stress!" mood="horror"/>
+<event description="There are signs that someone was under the bed... and it’s still warm! Is he still close by?!" mood="horror"/>
+<event description="Someone feels something strange, a presence coiled around them... The maid with the highest Cunning starts stalking the maid with the lowest." mood="horror"/>
+<event description="Someone grabs the ankle of the maid with the lowest Luck... That maid takes 2D6 stress." mood="horror"/>
+<event description="When you step on the floor, you hear a disgusting sound... The floor is covered in blood, and everyone who sees this takes 2D6 Stress." mood="horror"/>
+<event description="It feels like there must be someone else in the room, but no amount of searching turns up anything." mood="horror"/>
+<event description="A package was left at the front door at some point... Inside is a doll of the Master that has been stuck with countless needles. (Master takes 2D6 Stress)" mood="horror"/>
+<event description="A scream resounds through the mansion! Everyone is left uncomfortable and takes 1D6 Stress." mood="horror"/>
+<event description="An evil manifestation! Among the maids who have been seduced, the one with the lowest will automatically has a Tragedy (no Will roll possible)." mood="horror"/>
+<event description="A memory long locked away is brought back! The maid with the lowest Affection gets a new Trauma from the Trauma Table." mood="horror"/>
+<event description="Poltergeist! Anyone who doesn’t get a result of 6 or better on an Athletics roll takes 5 Stress." mood="horror"/>
+<event description="Deal with the devil! Everyone rolls 1D6, and the maid who rolls highest gets +1 to each of her attributes for the rest of this session only." mood="horror"/>
+<event description="The corpse of a cat is found at the door of the mansion... Is it an ill omen? Or part of some scheme...?" mood="horror"/>
+<event description="The maid with the lowest Luck turns out to actually be a ghost... (She gains the Ghost Special Quality)." mood="horror"/>
+<event description="There is no escaping from terror! Everyone becomes unconscious." mood="horror"/>
+<event description="The terror draws near! Everyone’s Stress Explosion becomes “Temporary Insanity” (Roll 1D66 on the Stress Explosion table each time)." mood="horror"/>
 
 <!-- world: fantasy (p. 115) -->
 <event description="A strange mist suddenly wraps itself around the mansion! The mansion becomes an isolated island, and all means of communication - even magic - are cut off..." world="fantasy"/>
@@ -239,18 +311,216 @@
 <event description="Doorway to a mysterious world! The world becomes Fantasy, and random events use the Fantasy table." world="early-modern"/>
 
 <!-- world: contemporary (p. 117) -->
+<event description="A pyromaniac sets fire to the mansion! And the Master is trapped inside! (Rescuing him requires an Athletics or Affection result of 12)." world="contemporary"/>
+<event description="The Master suddenly runs away from home... What could’ve happened?! Whatever it was, you’d better hurry and find him!" world="contemporary"/>
+<event description="The Master suddenly became an otaku... He has the maids play penalty games!" world="contemporary"/>
+<event description="The Master is harassed by relatives who are jealous of his position! They incessantly pester of the master and his maids..." world="contemporary"/>
+<event description="The Master falls down the stairs, and breaks his leg... For the rest of the session he can’t walk and insists that the maids take care of him." world="contemporary"/>
+<event description="A passenger plane crashes into the mansion! Is the mansion alright? And what about the crash survivors?!" world="contemporary"/>
+<event description="The mansion transforms into a giant robot! What the hell is going on?!" world="contemporary"/>
+<event description="A sudden storm! The mansion is left on a solitary island of land! All communication is cut off..." world="contemporary"/>
+<event description="The Master is financially ruined and goes bankrupt! He loses the mansion, and everyone has to live in a small apartment or maybe even cardboard boxes." world="contemporary"/>
+<event description="The maid with the highest Affection swaps bodies with the Master... What will you do?" world="contemporary"/>
+<event description="The Master promised to give his maids away while gambling! He has to win this next round no matter what!" world="contemporary"/>
+<event description="The Master has joined a cult! Unless someone does something, he’ll donate the mansion and maids to the cult!" world="contemporary"/>
+<event description="A band of robbers fleeing the law (Attributes 3/Spirit 5/1D6 of them) take refuge in the mansion!" world="contemporary"/>
+<event description="Somehow the mansion’s basement got turned into a hideout for an evil secret society... There’s something going on between them and the master...!" world="contemporary"/>
+<event description="The parents of the maid with the lowest Will are coming to the mansion. The maid in question can try to make it look like she is the one in charge if she wants." world="contemporary"/>
+<event description="A package is delivered containing some mysterious item that the Master mail-ordered! The maid with the highest Luck gets one item rolled at random!" world="contemporary"/>
+<event description="After a mild earthquake, an unexploded bomb is unearthed in the garden! And it starts rolling towards the mansion!" world="contemporary"/>
+<event description="A legitimate heir to the mansion - and its maids - arrives! Create a new Master, who appears as an NPC." world="contemporary"/>
+<event description="A murderer (Attributes 3/Spirit 10) enters the mansion... The sound of footsteps draws near!" world="contemporary"/>
+<event description="The spirit of one of the Master’s ancestors (Attributes 3/Spirit 5) appears... Those who coldly reject him suffer a curse and lose 4D6 Favor." world="contemporary"/>
+<event description="A giant monster (Attributes 5/Spirit 10) rises up from the depths of the earth! It arrives on the mansion’s grounds, and begins to rampage!" world="contemporary"/>
+<event description="The maid with the highest Luck catches a glimpse of the Master’s [redacted]. What will you do?" world="contemporary"/>
+<event description="Massive earthquake! Fragile things throughout the mansion are broken, parts of the ceiling come apart and fall down! And if it’s near the ocean, there could be a tidal wave too..." world="contemporary"/>
+<event description="People from the town hold a demonstration to try to get the Master evicted! What could the Master have done?" world="contemporary"/>
+<event description="Someone planted a bomb in the mansion! If you want to disarm it, you’ll need a Luck result of 12 or higher! The bomber wants the Master to deliver the thing he or she is demanding personally and alone." world="contemporary"/>
+<event description="A sudden evening shower over the mansion! Everyone gets wet! The maids had better hurry and change their clothes. But it makes quite a distraction..." world="contemporary"/>
+<event description="Destiny strikes without warning! The maid with the highest Affection receives a confession of love from a young man who visits the mansion!" world="contemporary"/>
+<event description="A UFO from an advanced civilization beyond the stars lands before the mansion! Do they come in peace?" world="contemporary"/>
+<event description="A mysterious group of ninjas surrounds the mansion... What could they be after?" world="contemporary"/>
+<event description="A mysterious thief left a notice! If the maids don’t make sufficient preparations, the mansion’s most valuable object (the maids can decide what it is) will be stolen!" world="contemporary"/>
+<event description="A sealed room murder! The bodies of several maids (or maybe butlers?) not included on the Encounter Table are in the room!" world="contemporary"/>
+<event description="A TV show is doing an episode about the mansion! The whole country will see this broadcast! Mistakes will not be forgiven!" world="contemporary"/>
+<event description="A technological breakthrough! The World becomes Cyber, and random events use the Cyber table." world="contemporary"/>
+<event description="A door to another world opens! The World becomes Fantasy, and random events use the Fantasy table." world="contemporary"/>
+<event description="The world is covered in nuclear fire! The World becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="contemporary"/>
+<event description="The mansion becomes a rocket and blasts off into space! The World becomes Space, and random events use the Space table." world="contemporary"/>
 
 <!-- world: space (p. 118) -->
+<event description="Encounter with space pirates (Attributes 3/Spirit 10)! And they’re hankering for some plundering and pillaging!" world="space"/>
+<event description="Encounter with space refugees! They come to beg! At this rate they’ll try to take everything!" world="space"/>
+<event description="Black hole! Everything will be sucked in! Maybe if we put the engines at full power..." world="space"/>
+<event description="A legacy of the Galactic War, a troop of berserker combat drones (Attributes 5/Spirit 10) appears. Can you avoid fighting?!" world="space"/>
+<event description="A giant space monster (Attributes 4/Spirit 10) appears! Its beam attack has the destructive power of a solar flare!" world="space"/>
+<event description="A space bounty hunter (Attributes/Spirit 5) comes, suspecting the maids... Any maid with a past could be in trouble!" world="space"/>
+<event description="Space ninjas (Attributes 4/Spirit 5) raid the mansion! They mean to take the Master’s head!" world="space"/>
+<event description="The mansion wanders into a space minefield, a legacy of the Galactic War! If you don’t move very carefully..." world="space"/>
+<event description="A space bill collector (Attributes 2/Spirit 5) appears! He’s come to confiscate the maid with the lowest Luck!" world="space"/>
+<event description="The mansion is actually an ancient, lost spaceship! All kinds of people could be coming after it, but it could be worth a fortune if you sell it!" world="space"/>
+<event description="Encounter with a spaceship full of maids... They have no Master of their own, and they’re going to try to take away yours!" world="space"/>
+<event description="Someone comes seeking revenge! (Attributes 4/Spirit 10) The maid with the highest Athletics causing him an injury some time in the past, and now he’s back!" world="space"/>
+<event description="A silent invasion! Parasitic aliens lie in wait! Find the host, and defeat them!" world="space"/>
+<event description="A legacy of the ancient Galactic Empire! Everyone gets one random item to share!" world="space"/>
+<event description="Out of food... Will you go search for food, or eat something that isn’t normally considered food?" world="space"/>
+<event description="Birth of a computer intelligence! The mansion’s AI becomes self-aware and begins to rebel! Every security system turns on the residents!" world="space"/>
+<event description="Discovered mysterious machinery in the heart of the mansion! And there is a girl in suspended animation in the middle of it..." world="space"/>
+<event description="The mansion transforms into a giant robot! What the hell is going on?!" world="space"/>
+<event description="The space pirate guild has put a bounty on the master and maids! But why?" world="space"/>
+<event description="The Master falls victim to a neurosis from living in space! You have to nurse the Master back to health!" world="space"/>
+<event description="Discovered a mysterious space fortress! The Master wants to explore inside of it..." world="space"/>
+<event description="Encounter with a god that lurks between the stars! Can you withstand such pure madness?! And what is the true power of an outer god?!" world="space"/>
+<event description="An alien race appears from the depths of space... Can you deal with them effectively when their thoughts are so different? Can you make contact?" world="space"/>
+<event description="A mysterious sickness spreads through the mansion... You have to search for the cure!" world="space"/>
+<event description="A meteor swarm sweeps over the mansion! The impact is terrible! This could be it!" world="space"/>
+<event description="Caught up in an interstellar war! You have to get away from this planet somehow!" world="space"/>
+<event description="A space ultra life form attacks! The maid with the lowest Luck is infected with a parasitic organism and gets the “Alien” Special Quality." world="space"/>
+<event description="Encounter with a drifting spaceship... There’s a single woman (with her pet cat) in the ship, sleeping in a stasis pod..." world="space"/>
+<event description="Discovered a container floating through space! The maid with the highest Luck gets one random item." world="space"/>
+<event description="Space slave traders come looking to sell some girls. If there are any maids with 5 or less Favor, they’re sold off and new maids take their place." world="space"/>
+<event description="An elegant woman (pick Maid Types at random) comes fleeing space pirates in a small warship!" world="space"/>
+<event description="You land on a planet that’s technologically advanced yet socially degenerate! The World becomes Cyber, and random events use the Cyber table." world="space"/>
+<event description="You land on a primitive planet! The entire planet is your mansion now! From now on use the Wild Kingdom table for random events." world="space"/>
+<event description="You land on a desert planet! The World becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="space"/>
+<event description="Into another universe! The World becomes Modern, and random events use the Modern table." world="space"/>
+<event description="You land on a mysterious planet! The World becomes Fantasy, and random events use the Fantasy table." world="space"/>
 
 <!-- world: cyber (p. 119) -->
+<event description="A pyromaniac sets fire to the mansion! And the Master is trapped inside! (Rescuing him requires an Athletics or Affection result of 12)." world="cyber"/>
+<event description="A rampaging labor robot (Attributes 3/Spirit 10) charges into the mansion!" world="cyber"/>
+<event description="The Master falls victim to a neurosis! You have to nurse the Master back to health!" world="cyber"/>
+<event description="The Master is harassed by relatives who are jealous of his position! They incessantly pester of the master and his maids..." world="cyber"/>
+<event description="Someone arrives with higher standing than the Master! The Master must meet even his most unreasonable demands, or his position could be in danger!" world="cyber"/>
+<event description="A military helicopter crashes into the mansion! Is the mansion okay? And what about the helicopter?!" world="cyber"/>
+<event description="A clone of the Master tries to sneak in to replace him! However, if you defeat him you’ll take 2D6 Stress!" world="cyber"/>
+<event description="You’re only a maid, but... one of the Master’s friends (Attributes 2/Spirit 5) confesses his love to you..." world="cyber"/>
+<event description="There is an outbreak of a strain of bacteria that makes animals become ferocious! Stray dogs, crocodiles, and vagrants all become berserkers (and for some reason look like zombies), and attack!" world="cyber"/>
+<event description="The Master expels smoke... He was a robot all along! Your real master was a computer! Maids, you are blessed!" world="cyber"/>
+<event description="The Master promised to give his maids away while gambling! He has to win this next round no matter what!" world="cyber"/>
+<event description="The Master has joined a cult! Unless someone does something, he’ll donate the mansion and maids to the cult!" world="cyber"/>
+<event description="A band of robbers fleeing the law (Attributes 3/Spirit 5/1D6 of them) take refuge in the mansion!" world="cyber"/>
+<event description="An S-Rank sniper (Attributes 4/Spirit 5) attacks the Master! Maids, what will you do?!" world="cyber"/>
+<event description="Evidence comes to light that the maid with the highest Cunning has been embezzling the Master’s funds! It’ll take some fancy talking to get out of this one without being fired!" world="cyber"/>
+<event description="A package is delivered containing some mysterious item that the Master ordered online! The maid with the highest Luck gets one item rolled at random!" world="cyber"/>
+<event description="Someone reveals to the public that the Master is actually a political fixer for a massive criminal organization! And as for the maids..." world="cyber"/>
+<event description="The maid with the lowest Affection is seduced by someone online using a handle name. The GM rolls on the Encounter Table to find out who it really is!" world="cyber"/>
+<event description="The Master splits vertically, to reveal a different Master inside! (Who is smaller and younger than before)." world="cyber"/>
+<event description="Media frenzy! They’re shooting footage of the inside of the mansion, and putting everything on the public airwaves?!" world="cyber"/>
+<event description="Cosmic rays rain down all across the globe! The inhabitants of the mansion become mutants! And society starts to discriminate against mutants...!" world="cyber"/>
+<event description="Discovered mysterious machinery in the heart of the mansion! And there is a girl in suspended animation in the middle of it..." world="cyber"/>
+<event description="A liquid metal assassin (Attributes 4/Spirit 10) comes from the future to terminate the master!" world="cyber"/>
+<event description="Corporate takeover! They buy out all of the Master’s Power Sources, which means he can’t be a Master any longer!" world="cyber"/>
+<event description="Someone planted a bomb in the mansion! If you want to disarm it, you’ll need a Luck result of 12 or higher! The bomber wants the Master to deliver the thing he or she is demanding personally and alone." world="cyber"/>
+<event description="Powerful acid rain! It’s too dangerous to leave the mansion..." world="cyber"/>
+<event description="Birth of a computer intelligence! The mansion’s AI becomes self-aware and begins to rebel! Every security system turns on the residents!" world="cyber"/>
+<event description="A UFO from an advanced civilization beyond the stars lands before the mansion! Do they come in peace?" world="cyber"/>
+<event description="The maid with the highest Skill realizes that she’s an android! She gains the “Robot” Special Quality." world="cyber"/>
+<event description="A mad cyborg (Attributes 3/Spirit 10) breaks into the mansion! Is it an ambush? Or is he running from something?" world="cyber"/>
+<event description="The Master buys a robot maid from a salesman! Another maid comes, with the Robot Special Quality." world="cyber"/>
+<event description="A beautiful girl (roll for random Maid Types) flees from corporate men dressed in black!" world="cyber"/>
+<event description="Cyber-terrorism! The intrusion takes over all of the mansion’s machines. You can no longer use any of the special facilities or security systems!" world="cyber"/>
+<event description="Into a game world! The World becomes Fantasy, and random events use the Fantasy table." world="cyber"/>
+<event description="The world is covered in nuclear fire! The World becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="cyber"/>
+<event description="You abandon the Earth and head into space! The World becomes Space, and random events use the Space table." world="cyber"/>
 
 <!-- world: post-apocalyptic (p. 120) -->
+<event description="Carelessness causes a fire! And the Master is trapped inside! (Rescuing him requires an Athletics or Affection result of 12)." world="post-apocalyptic"/>
+<event description="The Master was bathed in radioactive dust... The Master will die at the end of this scenario (though a Power Source might change that)." world="post-apocalyptic"/>
+<event description="1D6 brutal bandits (Attributes 3/Spirit 10) raid the mansion! They start pillaging everything in sight!" world="post-apocalyptic"/>
+<event description="A group of animals (Attributes 3/Spirit 15) gone mad surrounds the mansion!" world="post-apocalyptic"/>
+<event description="A sudden storm! The mansion is left on a solitary island of land! All communication is cut off..." world="post-apocalyptic"/>
+<event description="The Master has the power to save this ruined world! A community begins to gather around him..." world="post-apocalyptic"/>
+<event description="An epidemic! The Master falls ill! Hurry, do whatever it takes to restore the Master back to health!" world="post-apocalyptic"/>
+<event description="The Master falls down the stairs, and breaks his leg... For the rest of the session he can’t walk and insists that the maids take care of him." world="post-apocalyptic"/>
+<event description="An old man appears at the mansion’s entrance clutching seeds, saying “I must take these fir seeds to the village...”" world="post-apocalyptic"/>
+<event description="A man dies in front of the mansion... He seems like a very dangerous man... Wait, is he really dead?" world="post-apocalyptic"/>
+<event description="In the midst of a sandstorm, a desperate girl staggers to the mansion... She seems to have something to ask of the Master." world="post-apocalyptic"/>
+<event description="There was an outbreak of strange bacteria?! Zombies swarm out of the sand! Get ready for their attack!" world="post-apocalyptic"/>
+<event description="A terrible epidemic has swept the land outside the mansion! Now people from outside have come to the mansion seeking help?!" world="post-apocalyptic"/>
+<event description="Discovered the entrance to an underground shelter next to the mansion! And inside there’s a single girl in suspended animation..." world="post-apocalyptic"/>
+<event description="Out of food... Will you go search for food, or eat something that isn’t normally considered food?" world="post-apocalyptic"/>
+<event description="A prophet comes, and says that one maid must be chosen! By the end of the session, one maid will be dismissed." world="post-apocalyptic"/>
+<event description="Mutant cockroaches! They’re not like the things you dealt with before! Is there no way to coexist with them?!" world="post-apocalyptic"/>
+<event description="A meteorite crashes near the mansion with an earth-shaking impact! But what you thought was a meteorite turns out to be a giant humanoid weapon!" world="post-apocalyptic"/>
+<event description="The maid with the lowest Luck tries to get close to the North Star... That maid will die by the end of the scenario." world="post-apocalyptic"/>
+<event description="It is the age of giant reptiles, of winged dragon salamanders! Wait for the right time to strike!" world="post-apocalyptic"/>
+<event description="The great glacier slowly advances... and you are forced to abandon the mansion." world="post-apocalyptic"/>
+<event description="The legendary North Star Assassin... The North Star (Attributes 6/Spirit 15) is here! React however you want - but you are already dead (maybe)." world="post-apocalyptic"/>
+<event description="An inheritance from a more plentiful age in the sand! The maid with the highest Luck finds a random item!" world="post-apocalyptic"/>
+<event description="A greedy giant future insect (Attributes 4/Spirit 10) gets into the mansion!" world="post-apocalyptic"/>
+<event description="You found a trove of firearms! In this era they’re enough to conquer the world... What will you do?" world="post-apocalyptic"/>
+<event description="Many just can’t handle such a terrible age as this... The Master falls victim to panic." world="post-apocalyptic"/>
+<event description="A school, completely with teachers and students, from a more peaceful era (Contemporary) is pulled through time to rest beside the mansion." world="post-apocalyptic"/>
+<event description="Aliens from an advanced civilization beyond the stars land before the mansion! Do they come in peace?" world="post-apocalyptic"/>
+<event description="The world is again consumed by flames! The mansion is destroyed, and the world left in ruins." world="post-apocalyptic"/>
+<event description="Slave traders come looking to sell some girls. If there are any maids with 5 or less Favor, they’re sold off and new maids take their place." world="post-apocalyptic"/>
+<event description="A new Empire has arisen, intent on ruling this broken world, and their soldiers attack! Will you fight them, or submit to their rule?!" world="post-apocalyptic"/>
+<event description="A beautiful girl (Maid Types are Pure/Heroine) comes fleeing bandits!" world="post-apocalyptic"/>
+<event description="Mutant plants! The world is wrapped in nature! Use the Wild Kingdom table for Random Events." world="post-apocalyptic"/>
+<event description="Everything changes thanks to cybernetic technology! The World becomes Cyber, and random events use the Cyber table." world="post-apocalyptic"/>
+<event description="The world turns things around! The World becomes Contemporary, and random events use the Contemporary table." world="post-apocalyptic"/>
+<event description="Doorway to a mysterious world! The World becomes Fantasy, and random events use the Fantasy table." world="post-apocalyptic"/>
 
 <!-- world: wild-kingdom (p. 121) -->
+<event description="Bushfire! And the Master is trapped in it! (Rescuing him requires an Athletics or Affection result of 12)." world="wild-kingdom"/>
+<event description="A strange sickness makes the animals go berserk! Wolves and aligators become aggressive (and for some reason look like zombies) and attack!" world="wild-kingdom"/>
+<event description="The Master falls down the stairs, and breaks his leg... For the rest of the session he can’t walk and insists that the maids take care of him." world="wild-kingdom"/>
+<event description="Stampeding animals (Attributes 3/Spirit 15) surround the mansion!" world="wild-kingdom"/>
+<event description="A sudden storm! The mansion is left on a solitary island of land! All communication is cut off..." world="wild-kingdom"/>
+<event description="An epidemic! The Master falls ill! Hurry, do whatever it takes to restore the Master back to health!" world="wild-kingdom"/>
+<event description="Jungle savages (Attributes 2/Spirit 5/1D6 of them) come to abduct the maids!" world="wild-kingdom"/>
+<event description="A giant stake gets into the mansion! It stays in the kitchen!" world="wild-kingdom"/>
+<event description="An item suddenly falls from the sky! The maid with the highest Luck gets a random item!" world="wild-kingdom"/>
+<event description="A sudden squall! Everyone is soaked! The maids have to hurry up and change, but someone might interfere!" world="wild-kingdom"/>
+<event description="In the midst of a heavy rain, a girl staggers up to the mansion... She seems to want to ask something of the Master..." world="wild-kingdom"/>
+<event description="A young girl (Maid Types are Lolita and one random one) comes fleeing a lion!" world="wild-kingdom"/>
+<event description="The great glacier slowly advances... and you are forced to abandon the mansion." world="wild-kingdom"/>
+<event description="A starving T-rex (Attributes 5/Spirit 10) emerges from the jungle!" world="wild-kingdom"/>
+<event description="Out of food... Will you go search for food, or eat something that isn’t normally considered food?" world="wild-kingdom"/>
+<event description="Civilized people come, destroying nature in their path... Can you become friends with them?" world="wild-kingdom"/>
+<event description="The land is laid to ruins! The World becomes Post-Apocalyptic, and random events use the Post-Apocalyptic table." world="wild-kingdom"/>
+<event description="Doorway to a mysterious world! The World becomes Fantasy, and random events use the Fantasy table." world="wild-kingdom"/>
 
 <!-- world: old-west (p. 121) -->
+<event description="The Master is now a wanted man! From now on every time the maids fail a roll, a bounty hunter (Attributes 4/Spirit 6) shows up." world="old-west"/>
+<event description="Outlaws (Attributes 3/Spirit 0/2D6 of them) attack." world="old-west"/>
+<event description="A gambler comes with a challenge! Figure out how to face him, and challenge the GM. If you fail, you’ll lose the mansion and be forced to wander the open road." world="old-west"/>
+<event description="There’s a gunfight at high noon... in the mansion for some reason! Whoever comes up on the Encounter Table takes a stray bullet and 20 Stress." world="old-west"/>
+<event description="The armory full of gunpowder explodes! Everyone must get a Luck result of 10, or the mansion will explode too." world="old-west"/>
+<event description="Friends from the future arrive in a shiny futuristic flying car to see one of the maids. The maid with the highest Skill gains “From The Future” as a Special Quality." world="old-west"/>
+<event description="The natives (a group with Attributes 4/Spirit 20 total) attack!" world="old-west"/>
+<event description="A race! Aim for the win! Characters who can get a Skill or Luck result of 20 can win the race and get a random item as a prize." world="old-west"/>
+<event description="El Mariachi (Attributes 5/Spirit 15) comes looking for revenge!" world="old-west"/>
+<event description="A cow goes on a rampage! (Attributes 3/Spirit 5) If you can stop it, it’ll be steak for dinner tonight!" world="old-west"/>
+<event description="Gold rush! Underground excavations begin, and neighbors come pouring in!" world="old-west"/>
+<event description="A scandal (roll on the Trauma table to see what) erupts! Regardless of whether or not it’s true, a newspaper report pushes his way in to cover the story." world="old-west"/>
+<event description="A pair of robbers (each has Attributes 4/Spirit 10) come to the mansion!" world="old-west"/>
+<event description="The clock tower is complete! Today is a carnival!" world="old-west"/>
+<event description="An Indian girl (Maid Types: Lolita and one random) comes running from the cavalry (1D6 of the, each with Attributes 4/Spirit 0)!" world="old-west"/>
+<event description="You move to South America! The World becomes “Wild Kingdom,” and Random Events use the Wild Kingdom table." world="old-west"/>
+<event description="You move to Japan. The World becomes “Old Edo,” and Random Events use the Old Edo table." world="old-west"/>
+<event description="Actually, this was all a movie. Roll 1D6 on the World table. From now on Random Events will use that world’s table." world="old-west"/>
 
 <!-- world: old-edo (p. 122) -->
+<event description="Ninjas (1D6 of them, each with Attributes 4/Spirit 0) come to assassinate the Master!" world="old-edo"/>
+<event description="Impostors of all of the player characters (attributes and such are exactly the same) appear. They start doing bad things to ruin the characters’ reputations." world="old-edo"/>
+<event description="A rampaging horse (Attributes 3/Spirit 10) bursts into the mansion." world="old-edo"/>
+<event description="A girl from town (Maid Types: Pure and one random) comes running from thugs (2D6 of them, each with Attributes 2/Spirit 0) who work for the evil magistrate." world="old-edo"/>
+<event description="Severe famine! You can’t restock your food." world="old-edo"/>
+<event description="A blind masseuse with a peculiar cane (Attributes 5/Spirit 15) comes to stay in the mansion for a few days. During that time, the local yakuza boss tries to move in on the master’s turf, or even tries to kill the masseuse under the master’s care!" world="old-edo"/>
+<event description="A handsome but gruff Ronin (Attributes 4/Spirit 15) comes to the mansion! Causes the “Fainting” Stress Explosion if attacked by him." world="old-edo"/>
+<event description="A politically wealthy playboy (Attributes 4/Spirit 10) comes to see the falling cherry blossoms! If you mess with him, you may be sentenced at an old style shogunate court of law at the end of the scenario." world="old-edo"/>
+<event description="A fire starts and spreads like mad! If the player characters can’t manage a total Luck result of 50 together, the mansion will be lost." world="old-edo"/>
+<event description="An elderly nobleman comes to the mansion in disguise. At or near the end of the session, he reveals himself and awards the just, punishing the evil! The maid with the highest Affection gets 10 Favor." world="old-edo"/>
+<event description="An assassin (Attributes 4/Spirit 15) and his young son attack with a baby carriage covered in secret weapons, including a machinegun! Is this a misunderstanding?" world="old-edo"/>
+<event description="1D6 merchant vigilantes (Attributes 5/Spirit 15) come to punish the maid with the highest Cunning." world="old-edo"/>
+<event description="The Self-Defense Forces (Attributes 5/Spirit 15) come from the future with tanks and helicopters. Depending on how you deal with them, they could become enemies or allies!" world="old-edo"/>
+<event description="A great monster from another era arises. Roll on the Shapeshifter or Monster tables to determine what kind of monster it is." world="old-edo"/>
+<event description="It’s the Shinsengumi! A band of rowdy sword-wielding patriots dressed in blue (Attributes 4/Spirit 10) appears! Depending on how you deal with them, they could become enemies or allies!" world="old-edo"/>
+<event description="You are granted a sword with spiritual qualities... But after that the Maid with the lowest Will gets the “Killer” Maid Special Quality." world="old-edo"/>
+<event description="You move to America to settle there. The World becomes “Old West,” and Random Events use the Old West table." world="old-edo"/>
+<event description="You are pulled into another era by mysterious powers! Roll 1D6 on the World table. From now on Random Events will use that world’s table." world="old-edo"/>
 
 <!-- weather (normal) (p. 123) -->
 <event description="Sudden downpour. You’d better hurry and take the laundry in..." type="normal-weather"/>
