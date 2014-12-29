@@ -60,19 +60,18 @@ function update_attributes() {
 		setAttribute('disabled', 'disabled')
 	}
 
-	// trouve les attributs avec le score maximal
+	// calcule le score maximal
 	var max = -1
+	for(var i = 1; i < attributes.length; ++i) max = Math.max(max, attributes[i].childNodes[1].lastChild.value)
+
+	// active les attributs avec le plus haut score
 	var indices = []
-	for(var i = 1; i < attributes.length; ++i) with(attributes[i].childNodes[1].lastChild) {
-		if(value == max) indices = indices.concat([i])
-		else if(value > max) {
-			max = value
-			indices = [i]
-		}
+	for(var i = 1; i < attributes.length; ++i) if(attributes[i].childNodes[1].lastChild.value == max) {
+		indices = indices.concat([i])
+		attributes[i].firstChild.firstChild.removeAttribute('disabled')
 	}
 
 	// sélectionne parmi les attributs les plus forts celui utilisé pour le Maid Power
-	for(var i = 0; i < indices.length; ++i) attributes[indices[i]].firstChild.firstChild.removeAttribute('disabled')
 	var node = attributes[indices[indices.random()]].firstChild.firstChild
 	node.setAttribute('checked', 'checked')
 	node.onchange()
