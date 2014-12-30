@@ -1,0 +1,13 @@
+<data>
+<power-source name="None" description="You don’t seem to have any power at all. (During the game, the player can roll 2D6 and replace “None” with some other Power Source)."/>
+<power-source name="Fear" description="You are a tyrannical despot who rules by fear, or you have channels through the underworld. You have many enemies, and little time to rest easy."/>
+<power-source name="Magical Power" description="Power. Magic. Something beyond the pale. You possess this, and through it your very existence demands special treatment."/>
+<power-source name="Blood Ties" description="Regardless of what real power you might have, your heritage demands special treatment."/>
+<power-source name="Military Might" description="You posses military might, such that no one around you would dare oppose you."/>
+<power-source name="Assets" description="It is the fortune you’ve amassed that gives you your power."/>
+<power-source name="Political Power" description="As the leader of an organization you have the power to command many people."/>
+<power-source name="Mansion" description="The true value lies not in you yourself, but in the mansion where you live. Perhaps some unimaginable technology or wealth sleeps there."/>
+<power-source name="Talent" description="You have a great talent in some particular area, or perhaps you’re an all-around genius. Your prowess here is such that all must prostrate themselves before you."/>
+<power-source name="Renown" description="You are respected by all. You might a great hero, an enemy of all things evil."/>
+<power-source name="Popularity" description="You have something that people find irresistible, something worthy of a king. That is why the maids serve you."/>
+</data>

@@ -11,6 +11,12 @@ function roll_select(button) {
 	if(node.onchange) node.onchange()
 }
 
+function roll_select_with_frequencies(button, frequencies) {
+	var node = button.parentNode.previousSibling.firstChild
+	node.selectedIndex = frequencies.random_with_frequency()
+	if(node.onchange) node.onchange()
+}
+
 Array.prototype.random = function() {
 	return dice(1, this.length) - 1
 }

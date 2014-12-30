@@ -1,0 +1,8 @@
+<data>
+<type name="Small Child" description="The Master is a small child. At this age most know nothing of the outside world and have no trace of suspicion." age-dice="2" age-faces="6" age-base="0"/>
+<type name="Legitimate Child" description="The Master is still a child. He’s just starting to understand his power." age-dice="2" age-faces="6" age-base="5"/>
+<type name="Layman" description="The Master is an ordinary person who came into wealth by chance." age-dice="2" age-faces="6" age-base="8"/>
+<type name="Natural Born" description="The Master is a young man or woman, and probably learned certain things wrong and has some twisted ideas." age-dice="2" age-faces="6" age-base="12"/>
+<type name="Aristocrat" description="This person was born to be the master of the house. Regardless of age, he has excellent self-control." age-dice="1" age-faces="56" age-base="10"/>
+<type name="Recluse" description="The Master has already put an end to his dealings with the outside world, and adopted a secluded lifestyle." age-dice="1" age-faces="56" age-base="20"/>
+</data>

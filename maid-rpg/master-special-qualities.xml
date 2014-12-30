@@ -1,0 +1,43 @@
+<!DOCTYPE data [
+	<!ATTLIST special-quality
+		frequency CDATA "1">
+]>
+
+<data>
+<special-quality name="Glasses" description="You wear glasses, and can’t use contact lenses. The frame design can be whatever you want, and this can include a monocle."/>
+<special-quality name="Sickly" description="You’ve got an incurable disease. However, this doesn’t adversely affect your attributes."/>
+<special-quality name="Royalty" description="You’re among the heads of a country or organization, and as a result your life is often put in danger."/>
+<special-quality name="Quiet" description="Strangely different from the “Cool” Maid Type. No, there are no rules regarding how often you speak."/>
+<special-quality name="My Pace" description="You like to live life at your own particular tempo, and you’re always calm and laid-back. This does not affect your attributes."/>
+<special-quality name="OCD" description="You’re obsessed with hygiene management. You can’t let the slighted bit of dirt pass."/>
+<special-quality name="Brown Skin" description="Your skin is a dark brown color, either naturally or because of tanning."/>
+<special-quality name="Albino" description="You have no pigment. You’re not necessarily completely colorless, and this can simply be a very pale complexion."/>
+<special-quality name="Shy" description="You’re very shy. Don’t forget to remain silent when encountering NPCs you haven’t met before."/>
+<special-quality name="Cross-Dresser" description="You outwardly appear to be of the opposite sex, which gives you a kind of perverse allure."/>
+<special-quality name="Imagination" description="You frequently get caught up in your own imaginary world."/>
+<special-quality name="Hermaphrodite" description="You’re both male and female. The player can decide which is the base sex."/>
+<special-quality name="Bishonen" description="Not only are you attractive, but women - and men - adore you. There’s a good chance that you’re also romantically attracted to members of the same sex."/>
+<special-quality name="Noble Hair" description="Your hair is done up in long rolls, your beard is very aristocratic, or you otherwise have hair that your position amongst nobility."/>
+<special-quality name="Hedonist" description="You only care about being able to passively enjoy life, or to put it nicely, you have no prejudices to speak of."/>
+<special-quality name="Vampire" description="You are a vampire, with long fangs. Be sure to act... vampiric."/>
+<special-quality name="Otaku" description="You have some obsession that you tirelessly pursue, with little or no regard for common sense."/>
+<special-quality name="Angel/Devil" description="You are a being from another world charged with judging good and evil. The design and the details of your origins are up to you."/>
+<special-quality name="Lecherous" description="Sexual harassment isn’t just a crime, it’s a way of life."/>
+<special-quality name="Sadist" description="You’re excited by causing pain and suffering to others."/>
+<special-quality name="Masochist" description="You’re excited by being caused pain and suffering by others."/>
+<special-quality name="Handicapped" description="You can only move around on your own with a wheelchair, or you might even outright be confined to your bed."/>
+<special-quality name="Scars" description="Your face, back, etc. are covered with painful-looking scars."/>
+<special-quality name="Kidnapped" description="You were once kidnapped and held for 1D6 days. Even today it remains a scar in your heart."/>
+<special-quality name="Capable Sibling" description="You have a sibling who excels at seemingly everything. You’re tormented by an inferiority complex."/>
+<special-quality name="Family Hate" description="You despise one or more of your parents or siblings. The GM can decide what if anything happened in the past."/>
+<special-quality name="Professional Criminal" description="You’re a professional criminal, and most of your assets no doubt came from ill-gotten gains."/>
+<special-quality name="Amnesiac" description="You’ve lost your memories from when you were very young. (The GM should come up with something to reveal during the game)."/>
+<special-quality name="Artist" description="You are a musician, painter, writer, actor, singer, composer, or some other kind of highly talented artist."/>
+<special-quality name="Evil Emperor" description="You are the leader of an evil kingdom or secret society, or the leader of a group aimed at tearing down society."/>
+<special-quality name="Undead" description="Despite your rotting body, you live on. This can be a mummy, zombie, lich, etc."/>
+<special-quality name="Scientist" description="You are a scientist who freely commands advanced technology, and who dabbled in countless fields."/>
+<special-quality name="Oracle" description="You can predict the future to a certain degree. There are any number of possible ways this can be carried out, and the player is free to define how their character does so."/>
+<special-quality name="Magician" description="You wield sorcerous powers, in the matter of a typical fantasy wizard."/>
+<special-quality name="Priest" description="You are a priest of some religion or other."/>
+<special-quality name="Maid Quality" description="Roll 1D66 and re-roll the tens digit if it’s less than 4, so you get a result from 41-66 from the Maid Special Quality table."><maid-special-qualities/></special-quality>
+</data>

@@ -1,0 +1,38 @@
+<data>
+<weapon name="Striking Martial Arts" description="You use Karate, Boxing, Muay Thai, Kung Fu, Capoeira or some other striking martial art to attack."/>
+<weapon name="Grappling Martial Arts" description="You use Jujutsu, Aikido, Judo, or some other grappling/joint locking martial art to attack."/>
+<weapon name="Security" description="You can use the traps and other security devices installed all throughout the mansion to attack."/>
+<weapon name="Tank" description="You use your favorite tank to blast or run over your enemies."/>
+<weapon name="Combat Helicopter" description="You use your favorite combat helicopter to shoot or bombard your enemies."/>
+<weapon name="Torture Implements" description="Torture implements that are awful just to look at. Fingernail pullers, the iron maiden, finger crushers, etc."/>
+<weapon name="Handgun" description="A revolver, derringer, automatic pistol, or other handgun."/>
+<weapon name="Machinegun" description="A machinegun that can throw out a rain of bullets in a short period of time."/>
+<weapon name="Rifle" description="An assault rifle, shotgun, musket, etc."/>
+<weapon name="Bomb/Grenade" description="You use bombs, grenades, or maybe plastic explosives."/>
+<weapon name="Bazooka" description="When a fight breaks out you pull out a big-ass bazooka."/>
+<weapon name="Ray Gun" description="It might look like a prop of a 50s sci-fi B movie, but the ray gun you’re packing really does hurt people."/>
+<weapon name="Devil Power" description="Your physical body, fused with a demon, is a weapon in itself. You use this overwhelming, superhuman power to crush your foes. How it works exactly is up to you."/>
+<weapon name="Hammer" description="You wield a hammer, whether a small throwing hammer or a big warhammer. Or possibly a squeaky toy hammer."/>
+<weapon name="Scythe" description="You wield a big scythe worthy of the Grim Reaper."/>
+<weapon name="Kung Fu Weapon" description="Nunchucks, Three-Section Staff, Tonfa, Sai, Tai Chi Sword, etc."/>
+<weapon name="Chainsaw" description="Never mind how loud it is; you fight with a chainsaw!"/>
+<weapon name="Wooden" description="You wield a bokken - Japanese-style wooden sword - or a staff."/>
+<weapon name="Axe/Hatchet" description="A tomahawk, battle axe, halberd, etc."/>
+<weapon name="Morningstar" description="Basically a mace with spikes. You can have a flail instead if you like."/>
+<weapon name="Western Sword" description="A long sword, rapier, flamberge, two-handed sword, etc., etc."/>
+<weapon name="Whip" description="A normal whip, a cat of nine tails, a metal whip, etc."/>
+<weapon name="Spear" description="A spear, lance, javelin, etc."/>
+<weapon name="Exotic" description="A boomerang, qatar, African throwing irons, etc."/>
+<weapon name="Knife/Scalpel" description="You attack with a knife or scalpel. You can throw it too, and it can be a large dagger if you like."/>
+<weapon name="Chain/Rope" description="You attack with a chain or rope."/>
+<weapon name="Claws" description="You attack with claws, a bagh nakh, cestus, or some other claw-like weapon."/>
+<weapon name="Katana" description="You wield a katana, or possibly a kusarigama or some other traditional Japanese weapon."/>
+<weapon name="Beam Attack" description="You can fire a destructive beam of light, heat, cold, or electricity from your hands or eyes. This is not a power possessed by human beings."/>
+<weapon name="Fire" description="You can spew fire from your hands or mouth. This makes it kind of hard to believe that you’re human."/>
+<weapon name="Summoning" description="You are able to summon some kind of special being to attack. You can decide what you summon and how it attacks."/>
+<weapon name="Magic" description="You use magic to attack. Or at least something that we might as well call magic."/>
+<weapon name="Psychic Powers" description="Well, you have some kind of psychic/super power that you use to attack. You can decide the details."/>
+<weapon name="Book" description="You wield a book as a blunt instrument, and possibly tear out pages, to attack."/>
+<weapon name="Internal" description="You have some kind of weapons installed in your body."/>
+<weapon name="Religious Symbol" description="You can use a cross, prayer wheel, paper charm, or other seemingly harmless religious symbol to deliver attacks."/>
+</data>

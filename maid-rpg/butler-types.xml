@@ -1,0 +1,18 @@
+<!DOCTYPE data [
+	<!ATTLIST type
+		athletics CDATA "0"
+		affection CDATA "0"
+		skill CDATA "0"
+		cunning CDATA "0"
+		luck CDATA "0"
+		will CDATA "0">
+]>
+
+<data>
+<type id="shadow" name="Shadow" description="Ninja, Phantom, Escort, Surveillance Expert, Enforcer" athletics="1"/>
+<type id="elite" name="Elite" description="Expert, Right-Hand Man, Trusted Friend, Cynic, Inspector, Wicked Tongue" cunning="1"/>
+<type id="monster" name="Monster" description="Inhuman Strength, Unworldly, Monster, Beast" athletics="1"/>
+<type id="partner" name="Partner" description="Companion, Friend, Adviser, Unbreakable Bond" affection="1"/>
+<type id="gothic" name="Gothic" description="Servant, Austere, Mechanical, Educator, Manager" skill="1"/>
+<type id="veteran" name="Veteran" description="Expert, Old Hand, Coach, All-Purpose"/><!--TODO-->
+</data>

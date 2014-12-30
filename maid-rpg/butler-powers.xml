@@ -1,0 +1,45 @@
+<data>
+
+<power name="Super Evasion" description="In exchange for 1d6 Stress, you can completely avoid a single attack." type="shadow"/>
+<power name="Lock Picking" description="You can enter any room whenever you feel like. This works even when someone is using World for Two." type="shadow"/>
+<power name="Stalking" description="When you’re following someone, they won’t spot you at all. (No roll possible)." type="shadow"/>
+<power name="Surprise Attack" description="In a flash you can bring out a weapon and deliver an attack. (Add +10 to the result for the first attack during combat, using a weapon)." type="shadow"/>
+<power name="Saw It" description="You can declare that you’ve seen something happening in the mansion; you can decide the timing too." type="shadow"/>
+<power name="Now You See Him..." description="You don’t need to actually move around the mansion to get where you need to be, as you can simply appear where you like within the house." type="shadow"/>
+
+<power name="Support" description="By spending 1D6 Favor, you can modify someone else’s die roll by +1 or -1." type="elite"/>
+<power name="Intrigue" description="This butler can make rolls to resist the actions of maids, but only when the Master isn’t there to see." type="elite"/>
+<power name="Knowing Laugh" description="When the maids cause disruptions during your work (not including Seduction rolls), you can automatically succeed at ignoring them." type="elite"/>
+<power name="Insight" description="With nothing more than an intent look you can make someone of the opposite sex (or maybe the same sex) feel enough feelings of love that they won’t choose to attack." type="elite"/>
+<power name="Trap" description="Even if you aren’t there at the time, you can have a trap prepared in advance during a battle." type="elite"/>
+<power name="Futile" description="You can prevent an opponent from using any special powers or Favor points they might possess." type="elite"/>
+
+<power name="Person Inside" description="You actually have a maid inside of you somehow. You have the option of re-creating your character as a maid and participating in the game that way whenever you wish." type="monster"/>
+<power name="Fighting Spirit" description="You have a powerful aura that extends for about 5 meters in every direction, and this gives you a bonus of +1 to die rolls for fighting any non-butler opponents." type="monster"/>
+<power name="Eerie" description="Because of your eerie appearance and atmosphere, you can apply a -1 penalty to rolls made to resist you by members of the opposite sex." type="monster"/>
+<power name="Limiter" description="Usable for attacks made using Athletics. You can make two attacks against opponents within your field of vision, but you take 10 Stress for each attack." type="monster"/>
+<power name="Giant Weapon" description="You can attack with a giant weapon. (+1 to Athletics for attacking)." type="monster"/>
+<power name="Berserker" description="When making an attack using Athletics, you can opt to an all-out attack that encompasses friends and foes alike, and adds +1 to the die roll." type="monster"/>
+
+<power name="Backup" description="When a maid has failed and is about to lose Favor points, you can back her up and prevent her from losing Favor." type="partner"/>
+<power name="World for Two" description="By taking 1D6 Stress, you can create a “world” for you and one other person, where for 5 minutes no one else can intrude." type="partner"/>
+<power name="Twisted Love" description="Because of your twisted love for the Master, every time you gain Favor from the Master, you also reduce your Stress by the same amount." type="partner"/>
+<power name="Deep Trust" description="Because of your deep bond of trust with the Master, each time you gain Favor from the Master you receive an additional 2 Favor." type="partner"/>
+<power name="Bonds of the Heart" description="You understand the Master’s feelings better than anyone, and as such you can give him sensible assistance (+2 points of Favor gained)." type="partner"/>
+<power name="Two As One" description="When the Master is in danger or has taken Stress, you can take the Stress yourself and instantly arrive at his location." type="partner"/>
+
+<power name="Punishment" description="When maids make mistakes, you can gain the right to punish them, without them having a chance to make an opposed roll." type="gothic"/>
+<power name="Lie Detector" description="By taking 1 Stress you can make other players or the master admit if they’ve lied." type="gothic"/>
+<power name="Old Hand" description="Whether a Special Quality or a weapon, you can declare that you’re conversant in skills that you haven’t been shown to possess before." type="gothic"/>
+<power name="As Expected" description="You can spend 2 points of Favor to automatically succeed at resisting with Luck. (Treat this as getting the same result as the opponent)." type="gothic"/>
+<power name="Foreboding" description="You can act as though you had knowledge of impending danger (especially Random Events) before the fact." type="gothic"/>
+<power name="Consequences" description="You can spend 3 Favor to re-roll the die for any action you take." type="gothic"/>
+
+<power name="Invincible" description="You take no Stress from attacks made with Attributes of 2 or less." type="veteran"/>
+<power name="Crisis Adrenaline" description="You can spend 1D6 points of Favor to add an Athletics roll to your Stress. You cannot use this to deliberately avoid the natural removal of Stress points." type="veteran"/>
+<power name="Connections" description="You have whatever kinds of special connections you want. You can request the assistance of other groups or organizations from outside of the mansion." type="veteran"/>
+<power name="Chance Meeting" description="By taking 2 points of Stress, you can have an NPC who just appeared be someone you knew previously, and decide the nature of that relationship." type="veteran"/>
+<power name="Manly Tears" description="By taking 2D6 Stress, you can make requests of others (PCs or NPCs). This must be role-played." type="veteran"/>
+<power name="Meatshield" description="You can shield others, taking the Stress points that would’ve been applied to up to two others within your field of vision." type="veteran"/>
+
+</data>

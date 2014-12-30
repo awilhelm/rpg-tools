@@ -42,22 +42,12 @@
 				<xsl:call-template name="color"/>
 			</tr>
 		</tbody>
-		<tbody id="special-facilities">
-			<tr>
-				<th>Special Facilities</th>
-				<xsl:call-template name="list"/>
-			</tr>
-		</tbody>
-		<tbody class="hidden">
-			<tr>
-				<td/>
-				<td><select><xsl:for-each select="$special-facilities"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></td>
-				<td>
-					<input type="button" value="Roll" onclick="roll_select(this)"/>
-					<input type="button" value="−" onclick="remove(this)"/>
-				</td>
-			</tr>
-		</tbody>
+		<xsl:call-template name="list">
+			<xsl:with-param name="id">special-facilities</xsl:with-param>
+			<xsl:with-param name="title">Special Facilities</xsl:with-param>
+			<xsl:with-param name="prototype"><select><xsl:for-each select="$special-facilities"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></xsl:with-param>
+			<xsl:with-param name="roll">roll_select(this)</xsl:with-param>
+		</xsl:call-template>
 	</table>
 </form>
 <script src="mansion-creation.js" type="application/javascript"/>

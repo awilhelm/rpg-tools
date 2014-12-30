@@ -1,0 +1,38 @@
+<data>
+<special-quality name="Glasses" description="You wear glasses, and can’t use contact lenses. The frame design can be whatever you want, and this can include a monocle."/>
+<special-quality name="Sunglasses" description="You always wear sunglasses or mirrorshades. As a rule, you don’t take these off."/>
+<special-quality name="Furrowed Brows" description="Your brows are always furrowed, like you’re in a bad mood."/>
+<special-quality name="Quiet" description="You have a cool, subtle demeanor. No, there are no rules regarding how often you speak."/>
+<special-quality name="My Pace" description="You like to live life at your own particular tempo, and you’re always calm and laid-back. This does not affect your attributes."/>
+<special-quality name="Shibui" description="Most butlers are well-kept and affable gentleman. But you are beyond that. Think Sean Connery on his best days."/>
+<special-quality name="Brown Skin" description="Your skin is a dark brown color, either natural or suntan."/>
+<special-quality name="Narrow Eyes" description="You have narrow eyes. They make it look like you’re smiling. What you’re really feeling is another matter entirely."/>
+<special-quality name="Knight Talk" description="You speak like a knight of old, saying “thou art” and such a lot."/>
+<special-quality name="A Woman" description="You’re actually a woman dressed as a man. Or you could be a hermaphrodite or something. You may roll for your other Special Qualities on the maids’ Special Quality table if you wish."/>
+<special-quality name="Giant" description="You’re huge, more than two meters tall."/>
+<special-quality name="Muscular" description="Your body is like a work of art, shrouded as it is in an armor of muscle."/>
+<special-quality name="Attractive" description="One or more of the maids finds you attractive, if a little unapproachable because of your position"/>
+<special-quality name="Misshapen Body" description="Some part of your body has suffered damage or is otherwise abnormal. You might have one arm, a strangely bent arm, or otherwise be misshapen."/>
+<special-quality name="Android" description="You’re not human, but rather a human-looking robot. Parts of your body are very obviously artificial."/>
+<special-quality name="Vampire" description="You are a vampire, with long fangs. Be sure to act... vampiric."/>
+<special-quality name="White Eyes" description="Your eyes are almost completely white and have no pupils. Or, your eyes might always be glowing."/>
+<special-quality name="Emaciated" description="You have long, thin limbs and an emaciated body. Your figure reminds people of a spider or a wire frame."/>
+<special-quality name="Bishonen" description="Not only are you attractive, but women - and men - adore you. There’s a good chance that you’re also romantically attracted to members of the same sex."/>
+<special-quality name="Sadist" description="You’re excited by causing mental (or physical) pain and suffering to others."/>
+<special-quality name="Sibling" description="You have a relationship with one of the other Maids: You are siblings."/>
+<special-quality name="Sportsman" description="Pick a sport. You are a legend at playing it. The more elegant the sport, the better (fencing, polo, cricket, etc)"/>
+<special-quality name="Patchwork" description="Your body is covered with stitching scars."/>
+<special-quality name="One Eye" description="You have only one eye. You’re free to decide whether you wear an eye patch, and if so its design."/>
+<special-quality name="Burns" description="Your face, body, etc. are covered with painful-looking scars from burns."/>
+<special-quality name="Masochist" description="You’re excited by being caused pain and suffering by others."/>
+<special-quality name="Former Mercenary" description="You were once a mercenary, constantly moving from battlefield to battlefield. You haven’t forgotten any of your experiences or instincts from that time."/>
+<special-quality name="Amnesiac" description="You’ve lost your memory from when you were young. (The GM should come up with something to reveal during the game)."/>
+<special-quality name="Wanted" description="The police want to question you about a serious crime. The player can decide whether the character is actually guilty."/>
+<special-quality name="Secretly an Assassin" description="While you put on the façade of being a butler, underneath you’re a coldhearted killer on the side."/>
+<special-quality name="Hacker" description="Aside from being a butler, you’re a hacker, breaking into computer systems."/>
+<special-quality name="Doctor" description="In addition to being a butler, you have the skills of a doctor or a pharmacist."/>
+<special-quality name="Shadow Clan" description="You’re a member of one of the secret organizations that has existed throughout history. You could be a ninja, a magician, one of the knights templar, a kung fu assassin, etc."/>
+<special-quality name="Mummy" description="You’re actually an animated corpse. Your complexion is bad, and you have conspicuous wounds."/>
+<special-quality name="Priest" description="You can use magic grounded in some kind of religious ceremony. You must use various types of religious symbols to do so."/>
+<special-quality name="Cyborg" description="You were made into a cyborg by an evil secret society or another country. You can have some special features if you wish."/>
+</data>

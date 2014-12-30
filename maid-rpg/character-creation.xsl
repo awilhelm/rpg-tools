@@ -10,11 +10,11 @@
 <xsl:variable name="stress-explosions" select="document('stress-explosions.xml')/*/*"/>
 <xsl:variable name="weapons" select="document('weapons.xml')/*/*"/>
 <xsl:variable name="powers" select="document('powers.xml')/*/*"/>
+<xsl:variable name="special-qualities" select="document('special-qualities.xml')/*/*"/>
 
 <xsl:template match="/*">
 <xsl:call-template name="use-colors"/>
 <xsl:call-template name="use-types"/>
-<xsl:call-template name="use-special-qualities"/>
 <xsl:call-template name="use-kanas"/>
 <xsl:call-template name="use-lists"/>
 <form id="form">
@@ -53,22 +53,12 @@
 				<td><input type="button" value="Roll" onclick="roll_select(this)"/></td>
 			</tr>
 		</tbody>
-		<tbody id="types">
-			<tr>
-				<th>Maid Types</th>
-				<xsl:call-template name="list"/>
-			</tr>
-		</tbody>
-		<tbody class="hidden">
-			<tr>
-				<td/>
-				<td><select onchange="update_types()"><xsl:for-each select="$types"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></td>
-				<td>
-					<input type="button" value="Roll" onclick="roll_select(this)"/>
-					<input type="button" value="−" onclick="remove(this)"/>
-				</td>
-			</tr>
-		</tbody>
+		<xsl:call-template name="list">
+			<xsl:with-param name="id">types</xsl:with-param>
+			<xsl:with-param name="title">Maid Types</xsl:with-param>
+			<xsl:with-param name="prototype"><select onchange="update_types()"><xsl:for-each select="$types"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></xsl:with-param>
+			<xsl:with-param name="roll">roll_select(this)</xsl:with-param>
+		</xsl:call-template>
 		<tbody id="attributes">
 			<tr>
 				<th>Attributes</th>
@@ -92,38 +82,18 @@
 				</tr>
 			</xsl:for-each>
 		</tbody>
-		<tbody id="special-qualities">
-			<tr>
-				<th>Special Qualities</th>
-				<xsl:call-template name="list"/>
-			</tr>
-		</tbody>
-		<tbody class="hidden">
-			<tr>
-				<td/>
-				<td><select><xsl:apply-templates mode="form" select="$special-qualities"/></select></td>
-				<td>
-					<input type="button" value="Roll" onclick="roll_special_quality(this)"/>
-					<input type="button" value="−" onclick="remove(this)"/>
-				</td>
-			</tr>
-		</tbody>
-		<tbody id="weapons">
-			<tr>
-				<th>Maid Weapons</th>
-				<xsl:call-template name="list"/>
-			</tr>
-		</tbody>
-		<tbody class="hidden">
-			<tr>
-				<td/>
-				<td><select><xsl:for-each select="$weapons"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></td>
-				<td>
-					<input type="button" value="Roll" onclick="roll_select(this)"/>
-					<input type="button" value="−" onclick="remove(this)"/>
-				</td>
-			</tr>
-		</tbody>
+		<xsl:call-template name="list">
+			<xsl:with-param name="id">special-qualities</xsl:with-param>
+			<xsl:with-param name="title">Special Qualities</xsl:with-param>
+			<xsl:with-param name="prototype"><select><xsl:apply-templates select="$special-qualities" mode="select"/></select></xsl:with-param>
+			<xsl:with-param name="roll">roll_select_with_frequencies(this, special_quality_table)</xsl:with-param>
+		</xsl:call-template>
+		<xsl:call-template name="list">
+			<xsl:with-param name="id">weapons</xsl:with-param>
+			<xsl:with-param name="title">Maid Weapons</xsl:with-param>
+			<xsl:with-param name="prototype"><select><xsl:for-each select="$weapons"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></xsl:with-param>
+			<xsl:with-param name="roll">roll_select(this)</xsl:with-param>
+		</xsl:call-template>
 		<tbody id="powers">
 			<tr>
 				<th>Maid Power</th>
@@ -142,21 +112,17 @@
 					<td><select><xsl:for-each select="$powers[@attribute = $attribute]"><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:for-each></select></td>
 					<td>
 						<input type="button" value="Roll" onclick="roll_select(this)"/>
-						<input type="button" value="−" onclick="remove(this)"/>
+						<input type="button" value="−" onclick="list_remove(this)"/>
 					</td>
 				</tr>
 			</xsl:for-each>
 		</tbody>
 	</table>
 </form>
+<script type="application/javascript">
+	var special_quality_table = [<xsl:apply-templates select="$special-qualities" mode="weights"/>]
+</script>
 <script src="character-creation.js" type="application/javascript"/>
-</xsl:template>
-
-<xsl:template match="special-quality" mode="form">
-<xsl:choose>
-	<xsl:when test="*"><optgroup label="{@name}" title="{@description}"><xsl:apply-templates mode="form"/></optgroup></xsl:when>
-	<xsl:otherwise><option title="{@description}"><xsl:value-of select="@name"/></option></xsl:otherwise>
-</xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

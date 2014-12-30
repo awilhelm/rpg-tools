@@ -1,17 +1,30 @@
 <xsl:stylesheet version="1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:variable name="special-qualities" select="document('special-qualities.xml')/*/*"/>
 
-<xsl:template name="use-special-qualities">
-<script type="application/javascript">var special_quality_table = [<xsl:apply-templates select="$special-qualities"/>]</script>
-</xsl:template>
-
-<xsl:template match="special-quality">
+<xsl:template match="*" mode="weights">
 <xsl:param name="parent" select="1"/>
-<xsl:variable name="frequency" select="$parent div count(parent::*/*)"/>
+<xsl:variable name="frequency" select="$parent * @frequency div sum(../*/@frequency)"/>
 <xsl:choose>
-	<xsl:when test="*"><xsl:apply-templates><xsl:with-param name="parent" select="$frequency"/></xsl:apply-templates></xsl:when>
+	<xsl:when test="*"><xsl:apply-templates mode="weights"><xsl:with-param name="parent" select="$frequency"/></xsl:apply-templates></xsl:when>
 	<xsl:otherwise>{frequency: <xsl:value-of select="$frequency"/>}, </xsl:otherwise>
 </xsl:choose>
+</xsl:template>
+
+<xsl:template match="*" mode="select">
+	<xsl:param name="indent"/>
+	<xsl:choose>
+		<xsl:when test="*">
+			<optgroup label="{$indent}{@name}" title="{@description}"/>
+			<xsl:apply-templates mode="select">
+				<xsl:with-param name="indent" select="concat($indent,'  ')"/>
+			</xsl:apply-templates>
+		</xsl:when>
+		<xsl:otherwise>
+			<option title="{@description}" value="{@value}">
+				<xsl:value-of select="$indent"/>
+				<xsl:value-of select="@name"/>
+			</option>
+		</xsl:otherwise>
+	</xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

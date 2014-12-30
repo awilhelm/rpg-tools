@@ -1,3 +1,8 @@
+<!DOCTYPE data [
+	<!ATTLIST special-quality
+		frequency CDATA "1">
+]>
+
 <data>
 
 <special-quality name="Glasses" description="You wear glasses, and can’t use contact lenses. The frame design can be whatever you want."/>

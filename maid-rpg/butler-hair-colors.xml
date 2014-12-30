@@ -1,0 +1,13 @@
+<!DOCTYPE data [
+	<!ATTLIST color
+		frequency CDATA "1">
+]>
+
+<data>
+<color name="Black" value="black"/>
+<color name="Gray" value="gray"/>
+<color name="Blonde" value="gold"/>
+<color name="Silver" value="silver"/>
+<color name="White" value="white"/>
+<color name="Maid Color"><maid-colors/></color>
+</data>
