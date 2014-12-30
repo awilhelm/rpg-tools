@@ -1,20 +1,19 @@
 <xsl:stylesheet version="1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:import href="common.xsl"/>
 <xsl:import href="colors.xsl"/>
-<xsl:import href="types.xsl"/>
 <xsl:import href="special-qualities.xsl"/>
 <xsl:import href="kanas.xsl"/>
 <xsl:import href="lists.xsl"/>
 <xsl:variable name="attributes" select="document('attributes.xml')/*/*"/>
-<xsl:variable name="roots" select="document('roots.xml')/*/*"/>
+<xsl:variable name="powers" select="document('maid-powers.xml')/*/*"/>
+<xsl:variable name="roots" select="document('maid-roots.xml')/*/*"/>
+<xsl:variable name="special-qualities" select="document('maid-special-qualities.xml')/*/*"/>
 <xsl:variable name="stress-explosions" select="document('stress-explosions.xml')/*/*"/>
-<xsl:variable name="weapons" select="document('weapons.xml')/*/*"/>
-<xsl:variable name="powers" select="document('powers.xml')/*/*"/>
-<xsl:variable name="special-qualities" select="document('special-qualities.xml')/*/*"/>
+<xsl:variable name="types" select="document('maid-types.xml')/*/*"/>
+<xsl:variable name="weapons" select="document('maid-weapons.xml')/*/*"/>
 
 <xsl:template match="/*">
 <xsl:call-template name="use-colors"/>
-<xsl:call-template name="use-types"/>
 <xsl:call-template name="use-kanas"/>
 <xsl:call-template name="use-lists"/>
 <form id="form">
@@ -120,9 +119,10 @@
 	</table>
 </form>
 <script type="application/javascript">
+	var type_table = [<xsl:for-each select="$types">{attributes: [<xsl:value-of select="@athletics"/>,<xsl:value-of select="@affection"/>,<xsl:value-of select="@skill"/>,<xsl:value-of select="@cunning"/>,<xsl:value-of select="@luck"/>,<xsl:value-of select="@will"/>]},</xsl:for-each>]
 	var special_quality_table = [<xsl:apply-templates select="$special-qualities" mode="weights"/>]
 </script>
-<script src="character-creation.js" type="application/javascript"/>
+<script src="maid-creation.js" type="application/javascript"/>
 </xsl:template>
 
 </xsl:stylesheet>

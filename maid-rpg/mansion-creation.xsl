@@ -2,10 +2,10 @@
 <xsl:import href="common.xsl"/>
 <xsl:import href="colors.xsl"/>
 <xsl:import href="lists.xsl"/>
-<xsl:variable name="worlds" select="document('worlds.xml')/*/*"/>
-<xsl:variable name="moods" select="document('moods.xml')/*/*"/>
-<xsl:variable name="special-facilities" select="document('special-facilities.xml')/*/*"/>
-<xsl:variable name="appearances" select="document('appearances.xml')/*/*"/>
+<xsl:variable name="appearances" select="document('mansion-appearances.xml')/*/*"/>
+<xsl:variable name="moods" select="document('mansion-moods.xml')/*/*"/>
+<xsl:variable name="special-facilities" select="document('mansion-special-facilities.xml')/*/*"/>
+<xsl:variable name="worlds" select="document('mansion-worlds.xml')/*/*"/>
 
 <xsl:template match="/*">
 <xsl:call-template name="use-colors"/>

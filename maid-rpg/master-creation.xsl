@@ -5,8 +5,8 @@
 <xsl:import href="lists.xsl"/>
 <xsl:import href="special-qualities.xsl"/>
 <xsl:variable name="attributes" select="document('attributes.xml')/*/*"/>
-<xsl:variable name="maid-special-qualities" select="document('special-qualities.xml')/*/*[position() > 18]"/>
-<xsl:variable name="maid-types" select="document('types.xml')/*/*"/>
+<xsl:variable name="maid-special-qualities" select="document('maid-special-qualities.xml')/*/*[position() > 18]"/>
+<xsl:variable name="maid-types" select="document('maid-types.xml')/*/*"/>
 <xsl:variable name="power-sources" select="document('master-power-sources.xml')/*/*"/>
 <xsl:variable name="special-qualities" select="document('master-special-qualities.xml')/*/*"/>
 <xsl:variable name="stress-explosions" select="document('stress-explosions.xml')/*/*"/>
